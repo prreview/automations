@@ -9,34 +9,34 @@ slug: superset
 Company Name: Superset
 Website: https://github.com/superset-sh/superset
 Description: IDE for the agents era.
-Stage: Seed (YC P26)
-Last Funding: YC standard deal ($500k+) — 2024/2025
-Total Raised: $500k+
-Estimated Revenue: Pre-revenue / early
-Team Size: ~3-5 (Founders: Avi, Kiet, Satya)
-Tech Stack (known): React, TypeScript, Node.js, AI Agents, AST
-Customers: Developers, AI Engineers
+Stage: Seed
+Last Funding: YC P26
+Total Raised: 
+Estimated Revenue: Pre-revenue
+Team Size: 5-10
+Tech Stack (known): React, TypeScript, Node.js
+Customers: Dev tools / B2B
 
 ## hiring signal
 
-Hiring Signal: true (implied due to recent YC funding and early stage)
+Hiring Signal: true
 Open Roles Found:
   - none found
 Hiring Sources:
-  - https://news.ycombinator.com/item?id=48236770
+  - https://github.com/superset-sh/superset
 
 ## contact
 
-Name: Avi
-Role: Co-founder
+Name: Founder
+Role: Founder
 LinkedIn: 
 Twitter: 
-Email: avi@superset.sh
-Email confidence: medium
+Email: founders@superset.sh
+Email confidence: low
 
 ## why raj fits
 
-At WaveMaker, Raj builds a transformer that converts proprietary markup into production Next.js with an AI build mode where agents synthesize full-stack apps end to end. On the side, he built Trevyn, an AI-powered GitHub App for PR code review that uses Tree-sitter for AST parsing and Neo4j for code dependency graphs. This deep experience with ASTs, code generation, and agentic workflows perfectly maps to building an IDE for the agents era at Superset.
+Raj has built Trevyn, an AI-powered GitHub App for PR code review that works from full repo context. He also built the code generation layer for WaveMaker, combining AI agents with structured code gen.
 
 ## outreach
 
@@ -46,17 +46,15 @@ Ways to reach: Cold Email
 
 ### cold email
 
-Subject: built Trevyn (AST + code graph) — engineering at Superset
+Subject: built AI-powered code graph at Trevyn — founding engineer at Superset
 
-hi avi,
+hi [name],
 
-I build products from 0 → 1 and I've been part of early teams: the kind where you own things end to end and figure it out as you go.
+i saw the launch of Superset for agent-era IDEs.
 
-currently at WaveMaker I work on the code generation layer — a transformer that converts proprietary markup into production Next.js, with an AI build mode where agents synthesize full-stack apps end to end. apart from work, I'm building Trevyn (https://trevyn.dev): a PR reviewer that works from full repo context, not just the diff, using Tree-sitter for AST parsing and Neo4j to build a code dependency graph. 
+apart from work, i'm building Trevyn (https://trevyn.dev): a PR reviewer that works from full repo context, not just the diff. at WaveMaker i work on the code generation layer — a transformer that converts proprietary markup into production Next.js, with an AI build mode where agents synthesize full-stack apps end to end.
 
-this gives me a deep understanding of how code is wired and how agents interact with it, which seems directly aligned with building an IDE for the agents era at Superset.
+i'd love to bring that to Superset. happy to jump on a call.
 
-happy to jump on a call.
-
-Yagyaraj
+Raj
 yagyaraj.com | trevyn.dev
