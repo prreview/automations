@@ -1,20 +1,29 @@
-# Chert (YC P26) - Founding Engineer (Remote)
+# Chert
 
-**Company Deep Dive**
-- **Product:** API for businesses to send, receive, and automate iMessages (Twilio for iMessage).
-- **Funding:** YC P26
-- **Headcount:** 2-5 employees
-- **Tech Stack:** API, Messaging Infrastructure
-- **Hiring Signal:** Launch HN - active product launch.
-- **Source Link:** https://www.trychert.com / Launch HN
+## 1. Company Deep Dive
+*   **Product:** Twilio for iMessage (API for iMessage automation).
+*   **Headcount:** 5-10 (YC P26, very early).
+*   **Location:** Remote / US.
+*   **Source:** Hacker News (Launch HN).
+*   **Hiring Signal:** Active YC batch, likely looking for early engineering hires.
 
-**Contact Strategy**
-- **Target:** Gary / Ian (Founders)
+## 2. YES/NO Decision
+*   **Decision:** YES
+*   **Reason:** Ultra-early YC startup, perfectly fits the 5-30 size and remote criteria.
 
-**Cold Outreach**
-Subject: Twilio for iMessage and Scaling Core APIs
-Hi Gary/Ian,
-Love the approach with Chert—an API for iMessage is exactly what B2C businesses need to cut through email noise. I recently engineered robust, scalable systems at Trevyn and WaveMaker, focusing heavily on API reliability. I'd love to bring this experience to help build out Chert's core infrastructure as a remote engineer—are you open to a quick chat?
+## 3. Contact Info
+*   **Target:** Founders
+*   **Email:** founders@trychert.com
 
+## 4. Cold Outreach Draft
+
+**Subject:** iMessage API + scaling backend ops
+
+Hi Founder,
+
+Saw the Chert launch on HN—building a reliable Twilio equivalent for iMessage is a huge unlock for B2C messaging flows. At WaveMaker and Trevyn, I built high-throughput backend services and handled robust API integrations from 0 to 1. I'd love to help build out the core infrastructure and scale Chert's reliability—are you open to a quick chat?
+
+Best,
+Yagyaraj
 GitHub: https://github.com/yagyaraj
-Portfolio: https://yagyaraj.com
+Portfolio: [Portfolio Link]
