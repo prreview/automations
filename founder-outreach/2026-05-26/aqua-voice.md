@@ -1,22 +1,11 @@
 # Aqua Voice
 
 ## Research
-- **Product**: Voice-native document editor (YC W24)
-- **Funding**: YC W24
-- **Tech Stack**: AI, LLM integration, Web
-- **Hiring Signal**: Launch HN 2024
-- **Source**: Hacker News Launch
-- **Headcount**: ~5 (ultra-early)
-- **Location**: Remote
+- Product: Voice-driven text editor
+- Headcount: 5-30
+- Location: Remote (YC W24)
+- Source: Hacker News
 
-## Cold Outreach (Founders: Jack and Finn)
-
-Subject: Aqua Voice's voice-native editor & engineering
-
-Hi Jack,
-
-I loved seeing your recent Launch HN for Aqua Voice—building a truly voice-native editor that feels like pair programming rather than clunky dictation is a massive shift. I've spent the last few years tackling complex UI and data flow challenges at WaveMaker, and built an AI-driven SQL agent at Trevyn. I'm looking for an ultra-early remote engineering role and would love to chat about helping you ship new features faster.
-
-Best,
-Raj
-[GitHub / Portfolio Link]
+## Outreach
+Subject: Aqua Voice and Voice-driven editing
+Body: Saw Aqua Voice's launch on HN, building voice-driven text editing is challenging. At Trevyn and WaveMaker, I've built robust systems and can bring that experience to Aqua Voice. Let's chat!
