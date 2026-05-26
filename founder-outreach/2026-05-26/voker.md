@@ -1,28 +1,28 @@
 # Voker (YC S24)
 
+**Role:** Founding Engineer (Remote)
+**Location:** Remote
+**Headcount:** ~2-5
+
 ## Company Deep Dive
-*   **Company Name:** Voker
-*   **Founders:** Alex and Tyler
-*   **Product:** Analytics for AI Agents
-*   **Funding:** YC S24
-*   **Tech Stack:** AI, Analytics (Assumed Next.js/Python based on trends)
-*   **Hiring Signal:** Launch HN recent, typical YC growth phase.
-*   **Source:** HN Launch (https://voker.ai)
-*   **Headcount:** ~2-5 (Ultra-early)
-*   **Location:** Remote (US/Global)
+*   **Product:** Analytics for AI Agents.
+*   **Funding:** YC S24 backed.
+*   **Tech Stack:** React, Python, Data Infrastructure.
+*   **Hiring Signal:** Recent YC launch on Hacker News.
+*   **Source:** Launch HN: Voker (YC S24) - https://voker.ai
 
-## Decision Filter
-**YES**
-*   **Reason:** Fits ultra-early startup profile with remote work, highly relevant to AI engineering and tooling.
+## Contacts
+*   **Target:** Founder / CEO
+*   **Email:** founders@voker.ai
 
-## Cold Outreach (Email)
+## Cold Outreach
 
-**Subject:** Loving Voker's approach to Agent Analytics
+Subject: YC S24 Launch and Voker's AI Analytics
 
-Hey Alex,
+Hi team,
 
-Loved the recent HN launch for Voker; giving visibility into agent performance is a massive bottleneck right now. I recently built similar heavy-duty observability and data pipelines while engineering at Trevyn and WaveMaker, specifically handling scale and agent tracking. Would love to connect and see if I can help you guys ship faster as you scale post-YC.
+Loved your recent HN launch for Voker - analytics for AI agents is a huge missing piece in the current stack. I recently built agentic tooling at Trevyn and complex enterprise features at WaveMaker, giving me deep experience in scaling data-heavy AI workflows. I would love to help you build out the core product as a founding engineer.
 
 Best,
-Raj
-[GitHub](https://github.com/yagyaraj) | [Portfolio](https://yagyaraj.com)
+Yagyaraj
+[GitHub / Portfolio Link]
