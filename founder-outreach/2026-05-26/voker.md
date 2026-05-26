@@ -1,19 +1,28 @@
 # Voker (YC S24)
 
 ## Company Deep Dive
-- **Product:** Analytics for AI Agents
-- **Funding:** YC S24 (Pre-seed/Seed)
-- **Tech Stack:** Assumed modern AI/Full-stack
-- **Hiring Signal:** Launch HN YC S24
-- **Source Link:** https://voker.ai
-- **Decision:** YES
+*   **Company Name:** Voker
+*   **Founders:** Alex and Tyler
+*   **Product:** Analytics for AI Agents
+*   **Funding:** YC S24
+*   **Tech Stack:** AI, Analytics (Assumed Next.js/Python based on trends)
+*   **Hiring Signal:** Launch HN recent, typical YC growth phase.
+*   **Source:** HN Launch (https://voker.ai)
+*   **Headcount:** ~2-5 (Ultra-early)
+*   **Location:** Remote (US/Global)
 
-## Contact
-- Founder / CTO
+## Decision Filter
+**YES**
+*   **Reason:** Fits ultra-early startup profile with remote work, highly relevant to AI engineering and tooling.
 
-## Cold Outreach
-Subject: Voker + AI Agent Analytics
+## Cold Outreach (Email)
 
-Loved your Launch HN for Voker; providing robust analytics for AI agents is critical as we move toward agentic architectures. I previously engineered scalable AI workflows and complex systems at Trevyn and WaveMaker, and I'd love to help build Voker's core infrastructure. Are you open to a quick chat about your engineering roadmap?
+**Subject:** Loving Voker's approach to Agent Analytics
 
-Portfolio: https://github.com/yagyaraj
+Hey Alex,
+
+Loved the recent HN launch for Voker; giving visibility into agent performance is a massive bottleneck right now. I recently built similar heavy-duty observability and data pipelines while engineering at Trevyn and WaveMaker, specifically handling scale and agent tracking. Would love to connect and see if I can help you guys ship faster as you scale post-YC.
+
+Best,
+Raj
+[GitHub](https://github.com/yagyaraj) | [Portfolio](https://yagyaraj.com)
