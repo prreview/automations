@@ -1,18 +1,19 @@
 Company Name: Waypoint Learning
-Description: EdTech startup building AI tools to help special education teachers support students with Individualized Education Programs (IEPs).
+Description: EdTech startup building AI tools to help special education teachers support students with IEPs.
 Hiring Signal: true
-Hiring sources: [https://news.ycombinator.com/item?id=47975571]
+Hiring sources:
+  - https://news.ycombinator.com/item?id=48012401
 Open Roles Found:
   - Founding Engineer
 
 Cold Email:
-Hi Team,
+Subject: Founding Engineer role / Special Ed AI tools
 
-I saw Waypoint Learning is hiring a founding engineer to build AI tools for special education teachers managing IEPs. 
+Hey Isaac,
 
-I built the backend, AI agents, and payment systems from scratch for Rava, and engineered highly scalable React layers for WaveMaker. I can own the entire stack for Waypoint and ship the specific AI workflows your teachers need right now. 
+I saw your post on HN about the founding engineer role at Waypoint Learning. I recently launched Trevyn, an AI PR reviewer that builds a full Neo4j code graph from Tree-sitter ASTs, and I previously built Rava from scratch (owning backend, agents, and payments). I know what it takes to scale systems from zero to one and I'm highly experienced with AI architectures. 
 
-I would love to hear more about the exact IEP workflows you are automating first. Do you have time to chat?
+Would love to learn more about the tools you're building for special education teachers. 
 
 happy to jump on a call.
 
@@ -20,7 +21,10 @@ Raj
 yagyaraj.com | trevyn.dev
 
 Cold Message (LinkedIn):
-Hi, I saw Waypoint Learning is hiring a founding engineer. I built the end-to-end backend and AI agents for Rava, plus scalable React architecture for WaveMaker. I would love to learn more about the IEP workflows you are automating first. Do you have time for a quick chat?
+Hey Isaac! Saw the HN post about Waypoint Learning. I'm a founding engineer who built Rava end-to-end and recently launched Trevyn (an AI tool using Neo4j and Tree-sitter for deep code context). Would love to connect and chat about the tools you're building for special ed.
+
+Raj
+yagyaraj.com | trevyn.dev
 
 Twitter DM:
-Hi, saw you're looking for a founding engineer at Waypoint Learning. I built the full backend and agents for Rava, and scaled React systems at WaveMaker. I'd love to chat about the IEP workflows you're tackling first if you're open to it!
+Hey Isaac, saw your HN post about Waypoint Learning. I'm a founding engineer with deep experience building AI tools from scratch (Rava, Trevyn). I scale full-stack systems and would love to learn more about what you're building for IEPs! yagyaraj.com | trevyn.dev
