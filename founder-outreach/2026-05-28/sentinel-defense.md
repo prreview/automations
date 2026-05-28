@@ -1,26 +1,25 @@
 Company Name: Sentinel Defense Technologies
-Description: Pre-seed startup building real-time civilian threat intelligence for conflict zones using multi-model AI pipelines.
+Description: Building real-time civilian threat intelligence for conflict zones. They ingest OSINT via a Gemini multi-model pipeline and push geolocated alerts to offline-first mobile clients.
 Hiring Signal: true
-Hiring sources: [https://news.ycombinator.com/item?id=47975571]
+Hiring sources: [https://hn.algolia.com/api/v1/items/48043765]
 Open Roles Found:
-  - AI Engineer / Founding Engineer (Remote)
+  - Founding Product Engineer / Systems Architect
 
 Cold Email:
-Subject: Sentinel Defense AI pipeline / Trevyn context
+To: PeterJFrancoIII@gmail.com
+Subject: [SENTINEL-BUILDER] - HackerNews Application
 
-Saw Sentinel Defense is closing its pre-seed and building a multi-model threat intelligence pipeline. I built Trevyn, an autonomous PR reviewer that parses code graphs with Neo4j and Pinecone semantic search for deep context. I can apply that same high-signal retrieval architecture to your OSINT ingestion pipeline. Happy to jump on a call.
+Atlas caught my eye, but your offline-first approach to civilian threat intel is why I am writing. I built Rava from zero, owning the backend, agents, and payments entirely. I also built the core context engine for Trevyn using Pinecone and Neo4j, so I know how to connect AI pipelines to reliable data layers. 
+
+In my first week, I would map out the sync protocol between the MongoDB backend and the mobile clients to ensure 2G constraints never drop an alert. 
+
+happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 Cold Message (LinkedIn):
-Saw Sentinel Defense is closing its pre-seed and building a multi-model threat intelligence pipeline. I built Trevyn, an autonomous AI system that parses code graphs with Neo4j and Pinecone for deep context. I can apply that same high-signal retrieval architecture to your OSINT pipeline. Happy to jump on a call.
-
-Raj
-yagyaraj.com | trevyn.dev
+Not applicable (HN direct email provided).
 
 Twitter DM:
-Saw Sentinel is building out the multi-model AI pipeline for threat intel. I built Trevyn, an autonomous AI system that parses complex graphs with Neo4j and Pinecone for deep context retrieval. I can apply that same architecture to your OSINT ingestion. Happy to jump on a call.
-
-Raj
-yagyaraj.com | trevyn.dev
+Not applicable.
