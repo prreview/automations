@@ -1,24 +1,33 @@
 Company Name: BetterDB
-Description: Tooling ecosystem for Valkey (Redis fork), focusing on observability, anomaly detection, and historical persistence.
+Description: Building the tooling ecosystem and observability for Valkey (Redis fork). Shipped OSS self-hosted and cloud SaaS. Moving into LLM caching.
 Hiring Signal: true
-Hiring sources: [Hacker News Who is Hiring May 2026]
+Hiring sources: [https://news.ycombinator.com/item?id=40232477]
 Open Roles Found:
-  - Founding Engineer (Remote)
+  - Founding Engineer (TypeScript, NestJS, React, Valkey)
 
 Cold Email:
-Subject: BetterDB observability + backend scaling
+To: kristiyan@betterdb.com
+Subject: Valkey tooling and fast iterations
 
-Hi Kristiyan,
+Saw you're building out the tooling ecosystem for Valkey and moving into LLM caching. I built the end-to-end backend, agent orchestration, and payment systems for Rava, which taught me how to scale early-stage infrastructure under pressure. I also built enterprise-grade scalable React systems at WaveMaker, so I'm comfortable moving fast across the full TypeScript stack you're using. I'd love to help BetterDB keep up the release velocity as you expand the team.
 
-Saw you're building the Valkey tooling ecosystem and scaling up BetterDB's observability layer. I've spent the last few years building high-throughput backends and developer tools, including my own startup Rava where I owned the backend infrastructure end-to-end. Before that, I scaled enterprise Node and React systems at WaveMaker. I'd love to help you push BetterDB's anomaly detection and persistence features to production.
-
-Happy to jump on a call.
+happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 Cold Message (LinkedIn):
-Hi Kristiyan, noticed BetterDB is hiring a founding engineer. I built the backend infrastructure for Rava from scratch and scaled enterprise systems at WaveMaker. Would love to help build out your Valkey observability tooling.
+Hi Kristiyan, saw BetterDB is expanding the founding engineering team to build out Valkey tooling. I built the end-to-end backend and agents for an AI startup (Rava) and scalable React systems at WaveMaker. I'd love to bring that full-stack velocity to your team. 
+
+happy to jump on a call.
+
+Raj
+yagyaraj.com | trevyn.dev
 
 Twitter DM:
-Hi Kristiyan, noticed BetterDB is hiring a founding engineer. I built the backend infrastructure for Rava from scratch and scaled enterprise systems at WaveMaker. Would love to help build out your Valkey observability tooling.
+Hi Kristiyan, saw BetterDB is hiring a Founding Engineer. I built the end-to-end backend and agents for Rava and scalable React systems at WaveMaker. I'm comfortable moving fast across a full TypeScript stack and would love to help you build out the Valkey ecosystem.
+
+happy to jump on a call.
+
+Raj
+yagyaraj.com | trevyn.dev
