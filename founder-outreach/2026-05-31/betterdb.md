@@ -1,29 +1,22 @@
 Company Name: BetterDB
-Description: Building the tooling ecosystem for Valkey, the high-performance Redis fork backed by AWS, Google, and Oracle. Starting with observability tools.
+Description: BetterDB is a monitoring platform for Valkey and Redis, providing real-time dashboards, slowlog analysis, client analytics, ACL audit trails, and Prometheus integration. Founded in 2025.
 Hiring Signal: true
 Hiring sources: [https://news.ycombinator.com/item?id=47975571]
 Open Roles Found:
   - Founding Engineer (Remote)
 
 Cold Email:
-Subject: Valkey observability + TS/React engineering
+Subject: Valkey observability / Founding Engineer
 
-Hi Kristiyan,
+Saw you are building out the tooling ecosystem for Valkey. I built Trevyn, an AI tool that indexes codebases using Tree-sitter and Pinecone to give LLMs full repo context. I also built Rava from scratch, handling the entire backend and core architecture. I'd love to bring this systems experience to the BetterDB founding team.
 
-Saw you're building out the tooling ecosystem for Valkey and adding LLM caching observability. At Rava, I led end-to-end backend development and agent infrastructure, scaling exactly the kind of high-throughput data systems you're building tools for. I previously built the scalable React system and proxy-based state layer at WaveMaker, so I can ship fast across the entire TS/React stack.
-
-I'd love to help you maintain that one-release-per-week velocity. Happy to jump on a call.
+happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 Cold Message (LinkedIn):
-Hi Kristiyan, love the focus on Valkey tooling at BetterDB. I led end-to-end backend and agent infrastructure at Rava and built scalable React systems at WaveMaker. Would love to help you build out the TS/React stack. Happy to jump on a call.
-
-Raj
+Saw you are building out the tooling ecosystem for Valkey. I built Trevyn (Tree-sitter/Pinecone code indexing) and Rava (end-to-end backend and agents). I'd love to bring this systems experience to the BetterDB founding team. Happy to chat.
 
 Twitter DM:
-Hi Kristiyan! Saw BetterDB is building Valkey observability tools. I led full-stack engineering at Rava and built enterprise React systems at WaveMaker. Would love to help build out the tooling ecosystem. Happy to jump on a call!
-
-Raj
-yagyaraj.com | trevyn.dev
+Saw BetterDB is building the tooling ecosystem for Valkey. I built Trevyn (Tree-sitter code indexing for LLMs) and Rava (full backend architecture). I'd love to bring this systems experience to the founding team. Let me know if you are open to a chat.
