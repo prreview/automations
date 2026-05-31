@@ -1,36 +1,29 @@
 Company Name: Tiger Tracks
-Description: Performance marketing agency building landing page conversion analyzers, creative analyzers for video ads, and media buying co-pilots.
+Description: Performance marketing agency founded by ex-Google employees. They are hiring their first dedicated AI engineer to build landing page conversion analyzers and vertical media buying co-pilots for Meta/Google/TikTok APIs.
 Hiring Signal: true
-Hiring sources: [https://news.ycombinator.com/item?id=48070967]
+Hiring sources:
+  - Hacker News Who is Hiring (May 2026)
 Open Roles Found:
-  - Founding AI Engineer (Contract-to-hire)
+  - Founding AI Engineer (Contract-to-hire, Remote)
 
 Cold Email:
-Saw Tiger Tracks is bringing on a Founding AI Engineer to build media buying co-pilots and conversion analyzers.
+Subject: Founding AI engineer role
 
-I built Trevyn, an AI PR reviewer that parses codebases using Tree-sitter ASTs and a Neo4j code graph to give agents full repository context. I know how to ship LLM tools that solve specific workflows rather than just acting as wrappers.
+Saw Tiger Tracks is bringing on its first AI engineer to build media buying co-pilots and creative analyzers. At Rava, I owned the backend and agent architecture from day one. I also built Trevyn, a PR reviewer that uses semantic search and code graphs for full repository context. I'm used to shipping real LLM tools fast.
 
-Happy to jump on a call.
+happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 Cold Message (LinkedIn):
-Saw Tiger Tracks is bringing on a Founding AI Engineer to build media buying co-pilots and conversion analyzers.
-
-I built Trevyn, an AI PR reviewer that parses codebases using Tree-sitter ASTs and a Neo4j code graph to give agents full repository context. I know how to ship LLM tools that solve specific workflows rather than just acting as wrappers.
-
-Happy to jump on a call.
+Saw Tiger Tracks is hiring its first AI engineer. At Rava, I owned the backend and agent architecture from day one. I also built Trevyn, an AI PR reviewer using semantic code graphs. I'm used to shipping LLM tools into production fast. happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 Twitter DM:
-Saw Tiger Tracks is bringing on a Founding AI Engineer to build media buying co-pilots and conversion analyzers.
-
-I built Trevyn, an AI PR reviewer that parses codebases using Tree-sitter ASTs and a Neo4j code graph to give agents full repository context. I know how to ship LLM tools that solve specific workflows rather than just acting as wrappers.
-
-Happy to jump on a call.
+Saw Tiger Tracks is hiring its first AI engineer. At Rava, I owned the backend and agent architecture from day one. I also built Trevyn, an AI PR reviewer using semantic code graphs. I'm used to shipping LLM tools into production fast. happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
