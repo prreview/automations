@@ -1,31 +1,31 @@
-# Company: Mitte
-- **Description**: Mitte is an AI creative suite acting as the agentic OS for creative teams. They are building tools to orchestrate AI models and agents specifically tailored for creative workflows.
+# Company: Mitte.ai
+- **Description**: Mitte is an AI creative suite acting as an agentic operating system for creative teams. The product enables creators to generate cinematic scenes, 3D cartoons, authentic UGC ads, and anime films using advanced AI models. They focus on giving creative teams complete control over high-fidelity outputs like vintage cartoons and studio-quality interview cinematography.
 - **Website**: https://mitte.ai
-- **Founders/CTO**: Not found
+- **Founders/CTO**: Ahmed Yasin Koculu (Engineering)
 - **Founder Email**: Not found
 - **Founder LinkedIn**: Not found
 - **Hiring Signal**: true
 - **Hiring sources**: https://news.ycombinator.com/item?id=48357725
 
 ## Hiring Signal Analysis
-- **Open Roles Found**: Founding Engineer (Go, React), Senior Frontend Engineer (React, TS, Redux)
+- **Open Roles Found**: Founding Engineer (Go, React)
 - **Hiring Sources**:
-  - Hacker News (Who is Hiring June 2026)
+  - Hacker News Who is Hiring thread
   - https://mitte.ai/careers/role/7VTbvOae
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
 ## Draft Outreach
 
 ### Cold Email
-hey there,
+Subject: founding engineer role / your work on the agentic OS
 
-saw the founding engineer role at Mitte and wanted to reach out.
+Hey Ahmed,
 
-i build products from 0 -> 1 and i've been part of early teams where you own things end to end. currently at WaveMaker i work on the code generation layer a transpiler converting proprietary markup into production Next.js. before that, at Rava i was a founding engineer on a 4-person team where i built the entire backend and agents from zero.
+I saw Mitte is hiring a founding engineer to build out the agentic OS for creative teams. I've spent the last few years building products from 0 to 1 and owning technical decisions end-to-end. 
 
-i'm also building Trevyn, an AI PR reviewer that works from full repo context. building infra for how agents operate is exactly where i want to go next.
+Currently at WaveMaker, I work on the core platform where I built a transpiler converting proprietary markup into production Next.js apps. Before that, I was a founding engineer at Rava, a 4-person startup where I built the entire backend from zero, including agents, tools, payments, and deployment. On the side, I built Trevyn, an AI PR reviewer that understands full repo context using tree-sitter.
 
-would love to bring that experience to Mitte.
+Building the infrastructure that powers creative AI agents is exactly what I want to do next.
 
 happy to jump on a call.
 
@@ -33,13 +33,28 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Cold Message (LinkedIn / InMail)
-hey! saw Mitte is hiring a Founding Engineer. i'm currently building the code-gen layer at WaveMaker (transpiler to Next.js). before that, founding engineer at a 4-person startup, built the product from 0 -> 1. i also build Trevyn, an AI code reviewer using full-repo context. love what you are building with agentic OS for creatives. happy to jump on a call.
+Hey Ahmed,
+
+Came across the founding engineer role at Mitte and wanted to reach out directly. 
+
+I build products from 0 to 1. At WaveMaker, I built the code generation layer that converts proprietary markup into production Next.js. Before that, I was a founding engineer at a 4-person startup, owning everything from agents to deployment. I also built Trevyn, an AI code review tool that uses tree-sitter to give AI precise codebase context. 
+
+I love the vision for an agentic OS for creatives. 
+
+happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-saw the founding engineer role at Mitte. i'm at WaveMaker building a transpiler for Next.js, and previously founding engineer at Rava (4-person team, built 0->1). also building Trevyn (AI PR reviewer). building agentic infra is exactly my focus. happy to jump on a call.
+saw the founding engineer role at mitte -- here's what i've built
+hey ahmed
+
+saw you're looking for a founding engineer. i'm a full stack engineer at WaveMaker building the code-gen layer that converts proprietary markup into production Next.js. before that, founding engineer at a 4-person startup, owned all frontend and backend from agents to deployment.
+
+side project i'm building: Trevyn, an AI-powered PR reviewer that actually understands the whole codebase using tree-sitter. 
+
+love what you're building with the agentic OS. happy to jump on a call.
 
 Raj
 yagyaraj.com | trevyn.dev
