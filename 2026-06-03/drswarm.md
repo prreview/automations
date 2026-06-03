@@ -1,31 +1,28 @@
 # Company: DrSwarm
-- **Description**: DrSwarm is an ultra-early stage healthcare AI startup building workflow automation for clinics and health systems. Their platform focuses on scheduling, RCM/billing workflows, and patient operations. They integrate AI and LLMs to automate end-to-end healthcare workflows, aiming for a HIPAA-compliant Next.js and Django architecture. Currently in the 0→1 phase, the founder-led team is seeking a founding full-stack engineer to own systems end-to-end.
-- **Website**: drswarm.com
+- **Description**: DrSwarm builds AI-driven workflow automation for healthcare clinics and health systems. The product targets scheduling, revenue cycle management (RCM)/billing workflows, and patient operations. As an early-stage startup, they are highly focused on finding product-market fit and iterating quickly on customer feedback. Their technical infrastructure spans from frontend dashboards to complex backend LLM orchestrations. The role is a 0->1 founding engineer position demanding end-to-end ownership.
+- **Website**: Not found
 - **Founders/CTO**: Not found
-- **Founder Email**: jobs@drswarm.com
+- **Founder Email**: Not found
 - **Founder LinkedIn**: Not found
 - **Hiring Signal**: true
-- **Hiring sources**: https://news.ycombinator.com/item?id=48358793
+- **Hiring sources**: https://news.ycombinator.com/item?id=48357725
 
 ## Hiring Signal Analysis
-- **Open Roles Found**: Founding Engineer (Full-Stack) with mix of base, bonus, and meaningful equity
+- **Open Roles Found**: Founding Engineer (Full-Stack). Compensation includes base, bonus, and meaningful equity.
 - **Hiring Sources**:
-  - https://news.ycombinator.com/item?id=48358793
-- **Ways to Apply**: Cold Email
+  - https://news.ycombinator.com/item?id=48357725
+- **Ways to Apply**: Cold Email (jobs@drswarm.com)
 
 ## Draft Outreach
-*(Note: Attempted to delegate to Claude Haiku 4.5 via subprocess as instructed, but the API call failed due to missing Anthropic credentials. Fallback executed strictly adhering to style rules.)*
 
 ### Cold Email
-Subject: HN Founding Engineer / AI clinic ops
+Subject: HN Founding Engineer - full stack builder
 
-hey Skeletor
+saw the founding engineer role for DrSwarm. i'm currently a software engineer at WaveMaker, where i architected the core code generation transpiler converting proprietary markup into Next.js. before that, i was a founding engineer at a 4-person startup called Rava.ai. i built the entire backend from zero: agents, RAG workflows, and deployments.
 
-came across the founding engineer role for DrSwarm on HN and wanted to reach out directly.
+i also built Trevyn, an AI PR reviewer that reads full repository context using tree-sitter. 
 
-i've built zero-to-one AI products on similar stacks. at WaveMaker i built a code-gen layer translating proprietary markup into production Next.js apps. before that i was founding engineer at a 4-person team called Rava.ai where i built the entire backend from scratch: agents, tools, payments, billing, and deployment.
-
-i also build Trevyn, an AI PR reviewer using tree-sitter for full codebase context. shipping HIPAA-compliant workflow automation and LLM integrations in healthcare is exactly the kind of ownership i am looking for.
+building 0->1 systems for healthcare automation is exactly the kind of ownership i want next.
 
 happy to jump on a call.
 
@@ -33,11 +30,9 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Cold Message (LinkedIn / InMail)
-hey Skeletor
+saw the founding engineer role for DrSwarm and wanted to reach out. i'm building the code-gen layer at WaveMaker right now. before that, founding engineer at Rava -> 4-person team, owned all backend and LLM agent architecture from scratch.
 
-saw DrSwarm is hiring a founding full-stack engineer on HN. i've built products from 0 -> 1 on Next.js and Django before. i built the code-gen layer at WaveMaker and before that was founding engineer at Rava.ai, owning the entire backend (agents, payments, deployment).
-
-i also build Trevyn, an AI PR reviewer with full codebase context. would love to bring this experience to building out healthcare automation at DrSwarm.
+side project i'm building: Trevyn, an AI PR reviewer that understands full repo context via tree-sitter. i love shipping fast and owning the full stack.
 
 happy to jump on a call.
 
@@ -45,9 +40,7 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-saw you are hiring a founding engineer for DrSwarm. i build AI products from 0 -> 1. i built the core Next.js code-gen layer at WaveMaker and the entire backend infrastructure for Rava.ai's agents.
-
-i also build Trevyn.dev, an AI code reviewer using tree-sitter. bringing LLM automation to healthcare clinic workflows is the kind of hard engineering i want to tackle next.
+saw DrSwarm is hiring a founding engineer. i built the core transpiler at WaveMaker and was previously founding engineer at Rava (4-person team, built the backend from 0->1). also building Trevyn (AI code reviewer) on the side. love the focus on healthcare workflow automation.
 
 happy to jump on a call.
 
