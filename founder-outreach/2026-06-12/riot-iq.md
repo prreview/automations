@@ -24,7 +24,7 @@ hey Robert,
 
 saw your HN post for full stack engineers and AI-native builders at Riot IQ. The work around response patterns, timing data, scoring, dashboards, and model evaluation maps well to what I’ve built.
 
-at WaveMaker, I work on the code-gen layer that converts proprietary markup into production Next.js. before that at Rava, I built LLM workflows, embeddings, caching, billing, deployment, and customer-facing backend systems from 0 to 1.
+at WaveMaker, I work on the code-gen layer that converts internal markup into production Next.js. before that at Rava, I built LLM workflows, embeddings, caching, billing, deployment, and customer-facing backend systems from 0 to 1.
 
 side project: Trevyn, an AI PR reviewer that reads full repo context.
 
@@ -36,7 +36,7 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Robert,
 
-saw the full stack / AI-native hiring post for Riot IQ. I’m at WaveMaker building the code-gen layer that turns proprietary markup into production Next.js, and before that I was at Rava building LLM workflows, embeddings, caching, deployment, and backend systems from scratch.
+saw the full stack / AI-native hiring post for Riot IQ. I’m at WaveMaker building the code-gen layer that turns internal markup into production Next.js, and before that I was at Rava building LLM workflows, embeddings, caching, deployment, and backend systems from scratch.
 
 I also built Trevyn, an AI PR reviewer that works from full repo context. Riot IQ’s work around assessment data, scoring, model evaluation, and product UX feels like a strong match.
 
