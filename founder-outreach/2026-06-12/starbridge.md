@@ -24,7 +24,7 @@ Hi Justin,
 
 Saw Starbridge is hiring senior engineers after the $42M Series A, especially around React, TypeScript, document analysis, and LLM-backed public-sector workflows.
 
-I’m at WaveMaker building the code generation layer that turns proprietary markup into production Next.js, and I built Trevyn, an AI PR reviewer that uses tree-sitter and repo context so review comments are grounded in the actual codebase.
+I’m at WaveMaker building the code generation layer that turns internal markup into production Next.js, and I built Trevyn, an AI PR reviewer that uses tree-sitter and repo context so review comments are grounded in the actual codebase.
 
 I’ve also built RAG workflows at Rava for 1,000+ customers, so Starbridge’s mix of public data, retrieval, and product speed feels like a strong fit.
 
@@ -36,7 +36,7 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Justin,
 
-saw the HN post for Starbridge hiring senior engineers across product and AI. I’m at WaveMaker building a code-gen layer that converts proprietary markup into production Next.js, and I built Trevyn, an AI PR reviewer using tree-sitter plus full repo context.
+saw the HN post for Starbridge hiring senior engineers across product and AI. I’m at WaveMaker building a code-gen layer that converts internal markup into production Next.js, and I built Trevyn, an AI PR reviewer using tree-sitter plus full repo context.
 
 before that at Rava, I built LLM and RAG workflows for 1,000+ users, so the Starbridge work around document analysis, chat, and public-sector data feels close to what I like building.
 
