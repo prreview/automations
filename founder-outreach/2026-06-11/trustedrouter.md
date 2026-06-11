@@ -16,7 +16,7 @@
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
 ### Fit Notes
-Raj fits the founding engineer shape because TrustedRouter needs someone comfortable across product, APIs, infra, SDKs, and AI workflow reliability. At WaveMaker, he works on the layer between proprietary markup and production Next.js output. At Rava.ai, he built LLM workflows, backend systems, billing, deployment, and customer-facing product in a 4-person startup. Trevyn is the strongest match: it uses tree-sitter and repo context to make AI review comments grounded in the actual codebase.
+Raj fits the founding engineer shape because TrustedRouter needs someone comfortable across product, APIs, infra, SDKs, and AI workflow reliability. At WaveMaker, he works on the layer between custom markup and production Next.js output. At Rava.ai, he built LLM workflows, backend systems, billing, deployment, and customer-facing product in a 4-person startup. Trevyn is the strongest match: it uses tree-sitter and repo context to make AI review comments grounded in the actual codebase.
 
 ## Draft Outreach
 
@@ -27,7 +27,7 @@ Hi Joseph,
 
 Saw your HN post for a founding engineer at TrustedRouter and the product clicked with the kind of systems I like: API layers, provider fallback, SDKs, and trust around how AI traffic moves.
 
-I'm at WaveMaker building the code generation layer that turns proprietary markup into production Next.js, before that I was founding engineer at Rava.ai where I owned LLM workflows, backend, billing, deployment, and product work from scratch.
+I'm at WaveMaker building the code generation layer that turns custom markup into production Next.js, before that I was founding engineer at Rava.ai where I owned LLM workflows, backend, billing, deployment, and product work from scratch.
 
 I also built Trevyn, an AI PR reviewer using tree-sitter and full repo context, and I'd love to bring that AI infra/product mix to TrustedRouter.
 
