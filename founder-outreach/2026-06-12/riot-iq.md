@@ -26,7 +26,7 @@ saw your HN post for full stack engineers and AI-native builders at Riot IQ. The
 
 at WaveMaker, I work on the code-gen layer that converts proprietary markup into production Next.js. before that at Rava, I built LLM workflows, embeddings, caching, billing, deployment, and customer-facing backend systems from 0 to 1.
 
-side project: Trevyn, an AI PR reviewer that reads full repo context, not just diffs.
+side project: Trevyn, an AI PR reviewer that reads full repo context.
 
 happy to jump on a call.
 
