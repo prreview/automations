@@ -1,35 +1,35 @@
 # Company: MixRank
-- **Description**: MixRank is a YC S11 data company selling people, company, app, and technographic datasets to sales, marketing, finance, recruiting, and security teams. The company processes petabytes of data each month from web crawls, mobile app stores, social sources, and other public feeds, then sells updated datasets and APIs to customers including Google, Amazon, Facebook, Intel, and Adobe. The business looks profitable and employee-owned from its June 2026 HN hiring post, with no stated dependence on outside capital, which gives it a clean runway profile compared with VC-heavy teams. YC lists the team at 31, while the current job post says 65+ full-time people across 20+ countries, still inside the 5-300 target band.
+- **Description**: MixRank sells subscription access to company, people, mobile app, SDK, and web technology datasets. The product is built around frequent data refreshes: 20M+ iOS and Android apps, 80M+ websites, 45M+ company profiles, 500M+ candidate profiles, and 800M+ employee records. Buyers use it for sales data, candidate enrichment, fraud checks, investment research, mobile app intelligence, and technology install tracking. The company says it is profitable, employee-owned, and has no outside funding dependence, which lowers runway risk compared with VC-backed teams burning cash. MixRank was founded in 2011, went through YC S11, has 30+ employees across 17 countries, and runs its own data infrastructure, including 2 datacenters, large web crawls, static analysis over mobile app packages, and a distributed file system. Competitors include Apollo, ZoomInfo, Clay, Similarweb, BuiltWith, Sensor Tower, data.ai, and People Data Labs. Revenue likely comes from B2B dataset subscriptions, sales data APIs, enrichment plans, and custom data access.
 - **Website**: https://mixrank.com
-- **Founders/CTO**: Scott Milliken, Founder/CEO, https://www.linkedin.com/in/scottamilliken. Email not found through Apollo because Apollo MCP tools were not exposed in this runtime.
+- **Founders/CTO**: Scott Milliken, Founder and CEO, https://www.linkedin.com/in/scottamilliken/; Aswin Shibu, CoFounder and CRO, https://www.linkedin.com/in/aswinshibu/. Founder email: Not found through Apollo because Apollo MCP tools are not exposed in this cron environment.
 - **Founder Email**: Not found
-- **Founder LinkedIn**: https://www.linkedin.com/in/scottamilliken
+- **Founder LinkedIn**: https://www.linkedin.com/in/scottamilliken/
 - **Hiring Signal**: true
-- **Hiring sources**: https://news.ycombinator.com/item?id=48357725, https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-global-remote, https://mixrank.com/careers
+- **Hiring sources**: https://news.ycombinator.com/item?id=48357992; https://www.ycombinator.com/companies/mixrank/jobs/Fnwsojk-j; https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-s
 
 ## Hiring Signal Analysis
-- **Open Roles Found**: Software Engineer, Global Remote, Full-time, $24K-$48K, 3+ years. Junior Software Engineer, Global Remote, Full-time, $12K-$24K, new grads ok.
+- **Open Roles Found**: Junior Software Engineer, Remote Global, Full-Time, 0-3 years; Software Engineer, Remote Global, Full-Time. Compensation was not listed in the HN post.
 - **Hiring Sources**:
   - https://news.ycombinator.com/item?id=48357992
-  - https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-global-remote
-  - https://mixrank.com/careers
+  - https://www.ycombinator.com/companies/mixrank/jobs/Fnwsojk-j
+  - https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-s
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
-## Role fit for Raj
-Raj is a strong fit for the global software engineer role because MixRank needs generalists across web apps, ETL, data mining, Postgres, Python, Rust, TypeScript, Linux, and infra. His WaveMaker work maps to TypeScript and production code generation, Rava maps to LLM workflows, backend systems, caching, payments, and deployment, and Trevyn maps to static analysis plus repo-aware AI review. The role asks for 3+ years and remote global work, so it passes the experience and location filters.
+### Fit Notes
+Raj maps well to the Software Engineer role because MixRank wants generalists who can move across frontend, backend, data mining, ETL, database work, infra, and tooling. His WaveMaker work fits the TypeScript and frontend/backend side through a transpiler that turns proprietary markup into production Next.js. Rava.ai fits the data and AI workflow side through RAG flows, browser caching, CI/CD, and backend ownership. Trevyn fits the code-analysis angle because it uses tree-sitter and repo context to review PRs with more than a diff.
 
 ## Draft Outreach
 
 ### Cold Email
-Subject: MixRank's global software engineer role
+Subject: building MixRank's data systems
 
-hey Scott,
+Hi Scott,
 
-saw MixRank is hiring global remote software engineers, and the scale caught my eye: petabytes from crawls, app stores, and public feeds, with engineers shipping to prod fast.
+Saw MixRank is hiring remote software engineers globally, especially people who like data mining, infra, TypeScript, Python, Postgres, and weird hard systems.
 
-currently at WaveMaker, i work on the code generation layer that turns proprietary markup into production Next.js/React. before that at Rava, i built LLM workflows, backend systems, caching, payments, and deployment pieces on a 4-person team.
+I'm at WaveMaker building the code generation layer that turns proprietary markup into production Next.js, before that I was at Rava.ai building LLM workflows, backend systems, billing, deployment, and customer-facing product from scratch.
 
-outside work, i'm building Trevyn, an AI PR reviewer that uses repo context and tree-sitter so reviews are grounded in how the code is wired.
+I also built Trevyn, an AI PR reviewer using tree-sitter and full repo context, and MixRank's crawlers, mobile app analysis, and data infra feel like the kind of engineering work I'd be strong at.
 
 happy to jump on a call.
 
@@ -37,11 +37,7 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Cold Message (LinkedIn / InMail)
-hey Scott,
-
-saw the global software engineer role at MixRank. petabyte-scale crawls, app analysis, Postgres, Python, Rust, and TypeScript sounds like the kind of messy systems work i like.
-
-i'm at WaveMaker building codegen into production Next.js/React, previously built LLM workflows and backend systems at Rava, and i'm building Trevyn, an AI PR reviewer using repo context + tree-sitter.
+Hi Scott, saw MixRank is hiring remote software engineers globally. I'm at WaveMaker building a transpiler that turns proprietary markup into production Next.js, before that I built full-stack and LLM systems at Rava.ai, and on the side I built Trevyn, an AI PR reviewer using tree-sitter and repo context. MixRank's crawler, app analysis, and data systems look like the kind of work I'd love to get into.
 
 happy to jump on a call.
 
@@ -49,7 +45,7 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-hey Scott, saw MixRank is hiring global remote engineers. i'm at WaveMaker working on codegen to production Next.js/React, built LLM/backend systems at Rava, and i'm building Trevyn, an AI PR reviewer using repo context + tree-sitter. MixRank's crawl/data infra looks like work i'd be useful on.
+hey Scott, saw MixRank is hiring global remote engineers. I work on WaveMaker's Next.js codegen layer, built full-stack LLM systems at Rava.ai, and built Trevyn, a repo-aware AI PR reviewer. MixRank's data infra and mobile app analysis work feels right up my alley.
 
 happy to jump on a call.
 
