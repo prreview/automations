@@ -1,32 +1,32 @@
 # Company: Starbridge
-- **Description**: Starbridge is a New York govtech startup building an AI go-to-market product for companies that sell to state, local government, and education buyers. The product pulls public records, meeting minutes, procurement data, agency documents, and account signals into sales workflows so revenue teams can find likely buyers, map accounts, and answer public-sector questions with source-backed AI. Starbridge raised a $42M Series A in Oct 2025 led by Craft Ventures, with Owl Ventures, Autotech Ventures, Commonweal Ventures, Zac Bookman, and Michael Seibel named in the round coverage. The revenue model is B2B SaaS for public-sector sales teams, likely sold as annual seats or account packages to vendors selling into government and education. Runway looks strong for a seed-to-Series A company: $42M gives them room to hire senior engineers, and the current HN post says they are still early and building the zero-to-one product layer. Main competitors are GovWin, GovSpend, Govly, OpenGov-adjacent tooling, and newer AI research products pointed at public-sector sales.
-- **Website**: https://starbridge.ai
-- **Founders/CTO**: Justin Wenig, Founder and CEO, https://www.linkedin.com/in/justinwenig. Apollo MCP was tested through the configured Hermes MCP server, but the Apollo server exited with `APOLLO_API_KEY is not set`, so direct Apollo email enrichment could not run.
+- **Description**: Starbridge sells sales intelligence software for public-sector GTM teams. The product watches 300k+ government, K-12, and higher-ed entities, then turns RFPs, vendor spend, buyer moves, grants, meetings, and account data into ranked targets and proposal workflows. The business looks like B2B SaaS sold to sales, RevOps, SDR, AE, marketing, and customer success teams that sell into government and education accounts. Public funding details were not found during this run, but the company has 400+ GTM teams listed on its site and is hiring across engineering, government, marketing, product, and revenue, which points to active growth. Main competitors include GovWin, GovTribe, Pavilion-style GTM data tools, ZoomInfo, Clay, and public-sector RFP tools. Runway cannot be verified from public sources; hiring for 10 open roles and $200K-$380K engineering comp suggests a funded or revenue-backed plan, but I would verify this in the first call.
+- **Website**: https://starbridge.ai/
+- **Founders/CTO**: Justin Wenig, founder, listed in Starbridge site schema. Apollo MCP was unavailable in this Hermes run, so founder email and LinkedIn could not be verified through Apollo.
 - **Founder Email**: Not found
-- **Founder LinkedIn**: https://www.linkedin.com/in/justinwenig
+- **Founder LinkedIn**: Not found
 - **Hiring Signal**: true
-- **Hiring sources**: https://news.ycombinator.com/item?id=48357761, https://starbridge.ai/careers, https://starbridge.ai/blog/starbridge-raises-42m-series-a-to-make-it-easy-for-any-business-to-sell-to-government-education, https://www.craftventures.com/articles/why-we-invested-in-starbridge
+- **Hiring sources**: https://news.ycombinator.com/item?id=48357761, https://jobs.ashbyhq.com/starbridge, https://starbridge.ai/
 
 ## Hiring Signal Analysis
-- **Open Roles Found**: Senior Engineers across Product Engineer, AI Engineer, and Backend Engineer from the June 1 HN post. Careers page lists AI Engineer at $200K–$380K plus equity, Founding Forward Deployed Engineer at $200K–$300K plus equity, and other fresh roles. The HN post says NYC or remote, full-time.
+- **Open Roles Found**: Product Engineer (React/TypeScript), AI Engineer (applied AI, Python, RAG, evals), Backend Engineer (Kotlin/Java/Scala). HN post lists NYC or remote. Ashby currently lists AI Engineer, New York City, full time, on-site, $200K-$380K plus equity; Founding Forward Deployed Engineer, New York City, full time, on-site, $200K-$300K plus equity.
 - **Hiring Sources**:
   - https://news.ycombinator.com/item?id=48357761
-  - https://starbridge.ai/careers
-  - https://starbridge.ai/blog/starbridge-raises-42m-series-a-to-make-it-easy-for-any-business-to-sell-to-government-education
+  - https://jobs.ashbyhq.com/starbridge
+  - https://starbridge.ai/
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
 ## Draft Outreach
 
 ### Cold Email
-Subject: AI engineering for Starbridge
+Subject: Starbridge engineering
 
-Hi Justin,
+hey Justin,
 
-Saw Starbridge is hiring senior engineers after the $42M Series A, especially around React, TypeScript, document analysis, and LLM-backed public-sector workflows.
+saw Starbridge is hiring across product engineering and AI, and the public-sector sales product caught my eye because it mixes messy public data, buyer signals, RFP workflows, and customer-facing UX.
 
-I’m at WaveMaker building the code generation layer that turns internal markup into production Next.js, and I built Trevyn, an AI PR reviewer that uses tree-sitter and repo context so review comments are grounded in the actual codebase.
+currently at WaveMaker, i work on the code-gen layer that turns proprietary markup into production Next.js/React; before that at Rava, i built LLM workflows, RAG-backed content tools, billing, deployment, and backend pieces from 0 -> 1.
 
-I’ve also built RAG workflows at Rava for 1,000+ customers, so Starbridge’s mix of public data, retrieval, and product speed feels like a strong fit.
+side project: Trevyn, an AI PR reviewer that reads repo structure with tree-sitter, and my GitHub is github.com/yagyaraj234.
 
 happy to jump on a call.
 
@@ -36,9 +36,11 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Justin,
 
-saw the HN post for Starbridge hiring senior engineers across product and AI. I’m at WaveMaker building a code-gen layer that converts internal markup into production Next.js, and I built Trevyn, an AI PR reviewer using tree-sitter plus full repo context.
+saw Starbridge is hiring product and AI engineers, wanted to reach out directly.
 
-before that at Rava, I built LLM and RAG workflows for 1,000+ users, so the Starbridge work around document analysis, chat, and public-sector data feels close to what I like building.
+at WaveMaker, i build the code-gen layer that converts proprietary markup into production Next.js/React; before that at Rava, i worked on LLM workflows, RAG tools, backend, billing, and deployment from 0 -> 1.
+
+also building Trevyn, an AI PR reviewer using tree-sitter for repo-aware code review: github.com/yagyaraj234.
 
 happy to jump on a call.
 
@@ -46,9 +48,11 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-hey Justin, saw Starbridge is hiring senior engineers after the Series A. I work on code generation at WaveMaker, built Trevyn for repo-aware AI PR review, and previously built RAG workflows at Rava for 1,000+ users.
+hey Justin, saw Starbridge is hiring product/AI engineers.
 
-Starbridge’s work across public data, LLMs, and sales workflows feels like my kind of engineering.
+at WaveMaker i build code-gen into production Next.js/React, and before that at Rava i built LLM workflows, RAG tools, backend, billing, and deployment from 0 -> 1.
+
+also building Trevyn, a repo-aware AI PR reviewer using tree-sitter: github.com/yagyaraj234.
 
 happy to jump on a call.
 
