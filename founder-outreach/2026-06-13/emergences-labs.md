@@ -15,7 +15,7 @@
   - https://emergences.ai/careers/ai-engineer
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
-Raj match: strong on TypeScript, Node.js, Next.js, React, GitHub Actions, LLM workflows, RAG patterns, code generation, and AI review tooling. WaveMaker maps to their need for production TypeScript and AI-assisted engineering systems. Trevyn maps to trace quality and codebase context: it reviews code from repo context instead of just diffs. Rava maps to LLM workflows, document embeddings, backend ownership, payments, billing, and shipping in a 4-person team. The gap is desktop capture and OS-level APIs, so the best outreach angle is AI systems, evidence quality, and end-to-end ownership rather than pretending deep Electron/macOS/Windows capture experience.
+Raj match: strong on TypeScript, Node.js, Next.js, React, GitHub Actions, LLM workflows, RAG patterns, code generation, and AI review tooling. WaveMaker maps to their need for production TypeScript and AI-assisted engineering systems. Trevyn maps to trace quality and codebase context: it reviews code from repo context with diff-level comments tied back to the codebase. Rava maps to LLM workflows, document embeddings, backend ownership, payments, billing, and shipping in a 4-person team. The gap is desktop capture and OS-level APIs, so the best outreach angle is AI systems, evidence quality, and end-to-end ownership with honest positioning around AI systems, evidence quality, and end-to-end ownership.
 
 ## Draft Outreach
 
@@ -26,7 +26,7 @@ Hi Jack,
 
 Saw the AI / Systems Engineer role for NeoHuman and liked the problem: turning messy AI work sessions into evidence someone can trust.
 
-I’m at WaveMaker building the code generation layer that converts proprietary markup into production Next.js, and I’m also building Trevyn, an AI PR reviewer that reads repo context instead of guessing from a diff.
+I’m at WaveMaker building the code generation layer that converts proprietary markup into production Next.js, and I’m also building Trevyn, an AI PR reviewer that reads repo context using full repo context, with diff-level comments tied back to the codebase.
 
 Before that I was a founding engineer at Rava, a 4-person AI startup, where I owned LLM workflows, backend systems, deployment, payments, and customer-facing product work from zero.
 
