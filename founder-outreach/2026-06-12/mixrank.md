@@ -27,7 +27,7 @@ Hi Scott,
 
 Saw MixRank is hiring global remote software engineers through the June HN thread and YC, especially for work across Python, Rust, SQL, JavaScript, TypeScript, and fast production deploys.
 
-I’m currently at WaveMaker building the code generation layer that converts proprietary markup into production Next.js, before that I was at Rava building LLM workflows, caching, payments, and backend systems from scratch; I’m also building Trevyn, a PR reviewer that reads full repo context before leaving comments. My links are yagyaraj.com, github.com/yagyaraj234, and trevyn.dev.
+I’m currently at WaveMaker building the code generation layer that converts internal markup into production Next.js, before that I was at Rava building LLM workflows, caching, payments, and backend systems from scratch; I’m also building Trevyn, a PR reviewer that reads full repo context before leaving comments. My links are yagyaraj.com, github.com/yagyaraj234, and trevyn.dev.
 
 I’d love to work on the systems behind MixRank’s crawls, data products, and engineering automation.
 
@@ -39,7 +39,7 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Scott,
 
-saw MixRank is hiring global remote software engineers. i’m at WaveMaker building the code-gen layer that turns proprietary markup into production Next.js, and before that i was at Rava building LLM workflows and backend systems from scratch.
+saw MixRank is hiring global remote software engineers. i’m at WaveMaker building the code-gen layer that turns internal markup into production Next.js, and before that i was at Rava building LLM workflows and backend systems from scratch.
 
 also building Trevyn, a repo-aware PR reviewer: trevyn.dev. think i’d fit well on the engineering side at MixRank.
 
