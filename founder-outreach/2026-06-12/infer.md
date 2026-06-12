@@ -22,9 +22,9 @@ Subject: AI evals and voice-agent infra at Infer
 
 hey Suneel,
 
-saw Infer is hiring for Applied AI and backend roles in Bengaluru, especially around eval harnesses, voice-agent quality, and production reliability.
+saw Infer is hiring for Applied AI and backend roles in Bengaluru, especially around eval systems, voice-agent quality, and production reliability.
 
-I’m at WaveMaker building the code generation layer that turns proprietary markup into production Next.js, and before that I built LLM workflows at Rava for 1,000+ customers; I’m also building Trevyn, an AI PR reviewer that uses repo context and tree-sitter instead of guessing from a diff.
+I’m at WaveMaker building the code generation layer that turns WaveMaker markup into production Next.js, and before that I built LLM workflows at Rava for 1,000+ customers; I’m also building Trevyn, an AI PR reviewer that uses repo context and tree-sitter instead of guessing from a diff.
 
 happy to jump on a call.
 
