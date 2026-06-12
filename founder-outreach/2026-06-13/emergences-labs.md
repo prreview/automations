@@ -26,7 +26,7 @@ Hi Jack,
 
 Saw the AI / Systems Engineer role for NeoHuman and liked the problem: turning messy AI work sessions into evidence someone can trust.
 
-I’m at WaveMaker building the code generation layer that converts proprietary markup into production Next.js, and I’m also building Trevyn, an AI PR reviewer that reads repo context using full repo context, with diff-level comments tied back to the codebase.
+I’m at WaveMaker building the code generation layer that converts WaveMaker markup into production Next.js, and I’m also building Trevyn, an AI PR reviewer that reads repo context using full repo context, with diff-level comments tied back to the codebase.
 
 Before that I was a founding engineer at Rava, a 4-person AI startup, where I owned LLM workflows, backend systems, deployment, payments, and customer-facing product work from zero.
 
@@ -40,7 +40,7 @@ hey Jack,
 
 saw Emergences is hiring for the AI / Systems Engineer role on NeoHuman. the trace + evidence pipeline is the part that caught me.
 
-I’m at WaveMaker building a codegen layer that turns proprietary markup into production Next.js, and I’m building Trevyn, an AI PR reviewer grounded in full repo context. before that, founding engineer at Rava, owned LLM workflows and backend/product work in a 4-person team.
+I’m at WaveMaker building a codegen layer that turns WaveMaker markup into production Next.js, and I’m building Trevyn, an AI PR reviewer grounded in full repo context. before that, founding engineer at Rava, owned LLM workflows and backend/product work in a 4-person team.
 
 happy to jump on a call.
 
