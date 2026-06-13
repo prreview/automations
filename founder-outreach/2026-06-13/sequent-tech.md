@@ -1,14 +1,14 @@
 # Company: Sequent Tech
-- **Description**: Sequent Tech builds online voting software for private and public elections. The product uses cryptography, open-source code, voter verification, audit trails, and election operations tooling so voters, managers, and auditors can check that ballots were cast and counted correctly. Its buyers appear to be governments, public bodies, unions, universities, political groups, and professional associations, with revenue likely coming from election platform contracts, setup work, support, and hosted voting services. Sequent says its platform has handled 200+ elections and 3.2M+ votes across Spain, Germany, the United States, Canada, and South Africa. The company is VC-backed, part of Microsoft for Startups, an AWS GovTechStart member, and LinkedIn lists 2-10 employees with 19 visible people, so this fits the small-team filter. Runway looks decent because they have live election usage, public sector programs, and 2 active engineering roles.
+- **Description**: Sequent Tech builds online voting software for public groups, parties, unions, universities, and government bodies. The product is open-core and cryptography-heavy: end-to-end vote checks, verifiable counting, audit trails, and voter access from anywhere. Public pages say the platform has run 200+ elections and counted 3.2M+ votes across Spain, Germany, the United States, Canada, and South Africa. The business likely sells election software and related setup/support to institutions that run formal votes. Funding details are partly private; the role page calls Sequent VC-backed, and the company is listed in the AWS GovTechStart program and Microsoft for Startups. Runway details are private. 2 active global engineering roles plus VC backing point to hiring budget. Competitors include ElectionBuddy, Simply Voting, Civica Election Services, Scytl, and Polyas. Raj is a good match for the Senior Fullstack Engineer role because the work needs React/TypeScript product depth, production code quality, CI/CD ownership, and fast learning across Rust/GraphQL.
 - **Website**: https://sequentech.io/
 - **Founders/CTO**: Shai Bargil, Co-Founder & CEO, https://www.linkedin.com/in/shaibargil/; Eduardo Robles, Co-Founder & CTO, https://www.linkedin.com/in/edulix/; David Ruescas, Co-Founder & Head of Research, https://www.linkedin.com/in/davidruescas/
 - **Founder Email**: Not found
-- **Founder LinkedIn**: https://www.linkedin.com/in/shaibargil/
+- **Founder LinkedIn**: https://www.linkedin.com/in/edulix/
 - **Hiring Signal**: true
 - **Hiring sources**: https://news.ycombinator.com/item?id=48404229, https://sequentech.io/careers/, https://sequentech.io/senior-fullstack-engineer/
 
 ## Hiring Signal Analysis
-- **Open Roles Found**: Senior Fullstack Engineer, Remote Global, full-time, pay not listed. Senior Fullstack DevOps Engineer, Remote Global, full-time, pay not listed. Role asks for 5 years of programming experience, Rust, React, TypeScript, GraphQL, Docker/Kubernetes, and remote work comfort.
+- **Open Roles Found**: Senior Fullstack Engineer, full time, global remote. Compensation package not published. The role asks for at least 5 years of professional programming work, mainly Rust and TypeScript, with React and GraphQL.
 - **Hiring Sources**:
   - https://news.ycombinator.com/item?id=48404229
   - https://sequentech.io/careers/
@@ -18,15 +18,15 @@
 ## Draft Outreach
 
 ### Cold Email
-Subject: Sequent fullstack engineering
+Subject: fullstack work at Sequent
 
-Hi Shai,
+Hi Eduardo,
 
-Saw Sequent is hiring a remote fullstack engineer to work on Rust, React, TypeScript, GraphQL, and election software that has already handled 200+ elections.
+Saw Sequent is hiring a global Senior Fullstack Engineer for the Rust, TypeScript, React, and GraphQL stack behind online voting.
 
-At WaveMaker, I work on the code generation layer that turns WaveMaker markup into production Next.js/React; before that at Rava.ai, I built LLM workflows, RAG features, caching, deployment, and backend systems for 1,000+ customers.
+I’m at WaveMaker building the code-gen layer that converts custom markup into production Next.js/React apps; before that I was at Rava, where I built LLM workflows, API caching, CI/CD, and backend systems from scratch.
 
-I also built Trevyn, an AI PR reviewer using tree-sitter repo context, and I'd love to bring that full-stack product ownership to Sequent: yagyaraj.com | github.com/yagyaraj234 | trevyn.dev.
+Trevyn, my side project, reviews PRs with repo-level code context, so the security-heavy code quality bar at Sequent is exactly the kind of product work I’d like to take on.
 
 happy to jump on a call.
 
@@ -34,13 +34,11 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Cold Message (LinkedIn / InMail)
-Hi Shai,
+Hi Eduardo,
 
-Saw the remote fullstack role at Sequent, especially the Rust, React, TypeScript, GraphQL work around verifiable election systems.
+Saw the Senior Fullstack Engineer role at Sequent. I’m at WaveMaker building a transpiler that turns custom markup into production Next.js/React, and before that I built full-stack systems at Rava across LLM workflows, APIs, caching, billing, and CI/CD.
 
-I'm at WaveMaker building the code-gen layer that turns WaveMaker markup into production Next.js/React, and before that I was at Rava.ai building LLM workflows, RAG features, caching, deployment, and backend systems for 1,000+ customers.
-
-I also built Trevyn, an AI PR reviewer using tree-sitter repo context, and Sequent's open-source voting infra feels like the kind of high-trust product work I'd love to do: yagyaraj.com | github.com/yagyaraj234 | trevyn.dev.
+I also built Trevyn, an AI PR reviewer that reads repo context before commenting. The Rust + TypeScript voting infra work looks like a strong fit.
 
 happy to jump on a call.
 
@@ -48,11 +46,11 @@ Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-hey Shai, saw Sequent is hiring a remote fullstack engineer.
+hey Eduardo, saw Sequent is hiring a global Senior Fullstack Engineer.
 
-I'm at WaveMaker building a code-gen layer that turns WaveMaker markup into production Next.js/React; before that at Rava.ai I built LLM workflows, RAG features, caching, deployment, and backend systems for 1,000+ customers.
+i’m at WaveMaker building the code-gen layer from markup to production Next.js/React, previously built full-stack LLM systems at Rava, and I’m building Trevyn, an AI PR reviewer with repo context.
 
-also built Trevyn, an AI PR reviewer using tree-sitter repo context, would love to chat if you need someone strong on full-stack product work for Sequent: yagyaraj.com | github.com/yagyaraj234 | trevyn.dev.
+would love to chat about the Rust + TypeScript voting work.
 
 happy to jump on a call.
 
