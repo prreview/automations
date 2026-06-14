@@ -24,7 +24,7 @@ hey Zied
 
 saw the Design Engineer role at vvd and wanted to reach out directly.
 
-I'm at WaveMaker building the code-gen layer that turns proprietary markup into production Next.js, with live preview, component systems, and app architecture work baked into the core platform.
+I'm at WaveMaker building the code-gen layer that turns custom markup into production Next.js, with live preview, component systems, and app architecture work baked into the core platform.
 
 before that I was a founding engineer at Rava.ai on a 4-person team, and I'm also building Trevyn, an AI PR reviewer that reads repo structure before commenting.
 
@@ -38,7 +38,7 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Zied, saw vvd is hiring a Design Engineer.
 
-I work at WaveMaker on the code-gen layer that turns proprietary markup into production Next.js, with live preview and component systems; before that I was founding engineer at Rava.ai, owning product work across frontend, backend, agents, payments, and deploys.
+I work at WaveMaker on the code-gen layer that turns custom markup into production Next.js, with live preview and component systems; before that I was founding engineer at Rava.ai, owning product work across frontend, backend, agents, payments, and deploys.
 
 I'm also building Trevyn, an AI PR reviewer that reads full repo context, and vvd's creator tooling feels like the kind of frontend-heavy product I'd love to help build.
 
