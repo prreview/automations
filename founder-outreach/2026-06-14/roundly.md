@@ -20,7 +20,7 @@ The hiring post is from June 5, 2026, which is 9 days old as of this run on June
 
 The role looks early and broad. The post asks for an engineer instead of a narrow backend or frontend hire, accepts part-time or full-time, and lists a small web stack. That fits a first-engineer or early product-engineer motion.
 
-Raj is a good match on React, Next.js, TypeScript, product UI, and early team ownership. WaveMaker maps well to Roundly’s frontend needs because Raj has built a codegen layer that turns proprietary markup into production Next.js and React output. Rava maps to the product backend side: LLM workflows, RAG, billing, deployment, and shipping in a 4-person startup. Trevyn gives a clean AI systems proof point: repo-aware PR review with tree-sitter context.
+Raj is a good match on React, Next.js, TypeScript, product UI, and early team ownership. WaveMaker maps well to Roundly’s frontend needs because Raj has built a codegen layer that turns custom markup into production Next.js and React output. Rava maps to the product backend side: LLM workflows, RAG, billing, deployment, and shipping in a 4-person startup. Trevyn gives a clean AI systems proof point: repo-aware PR review with tree-sitter context.
 
 ## Apollo / founder contact status
 Apollo MCP tools were required by the playbook, but this Hermes run did not expose `mcp_apollo_search_people` or `mcp_apollo_enrich_person` in the available tool namespace. I did not guess LinkedIn URLs or founder emails. The only verified contact found was the HN hiring email: nesra@roundlyhq.com.
@@ -34,7 +34,7 @@ hey Nesra,
 
 saw the engineer role for Roundly on HN, the nurse-specific interview prep angle is sharp because it turns panel practice into scored clinical reasoning, SBAR/STAR structure, and spoken delivery.
 
-I’m at WaveMaker building the code generation layer that converts proprietary markup into production Next.js/React, and before that I was founding engineer at Rava where I owned LLM workflows, backend systems, billing, and deployment from 0 to 1.
+I’m at WaveMaker building the code generation layer that converts custom markup into production Next.js/React, and before that I was founding engineer at Rava where I owned LLM workflows, backend systems, billing, and deployment from 0 to 1.
 
 I’d be useful on the React side and the AI product loops behind mock panels; I also built Trevyn, a repo-aware AI PR reviewer that works from full code context.
 
