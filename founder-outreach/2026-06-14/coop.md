@@ -15,6 +15,11 @@
   - https://smart.coop.farm
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -26,7 +31,7 @@ i’m at WaveMaker building the codegen layer that turns the markup into product
 
 if you’re still looking, i’d love to talk.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -34,11 +39,11 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey AJ,
 
-saw the founding engineer post at Coop and wanted to reach out.
+saw the founding engineer post at Coop and the stack looks close to the product and infra work i like.
 
 i’m at WaveMaker building the codegen layer that turns the markup into production Next.js. before that i was a founding engineer at Rava, where i owned backend work from agents to deployment. i also built Trevyn, a PR reviewer that reads full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ hey AJ, saw the Coop founding engineer post.
 
 i’m at WaveMaker building the codegen layer that turns the markup into production Next.js, and before that i was a founding engineer at Rava owning backend work end to end. i also built Trevyn, a PR reviewer that reads full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

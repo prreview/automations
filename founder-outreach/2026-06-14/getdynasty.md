@@ -18,6 +18,11 @@
 ## Fit Notes
 Raj matches the junior engineering opening unusually well for an early legal-fintech product. WaveMaker maps to product engineering around complex flows and generated Next.js output. Rava maps to early-team ownership, backend work, agents, payments-adjacent product work, deployments, and customer-facing AI flows. Trevyn adds the strongest proof for repo-level AI context and review systems, useful if Dynasty keeps building internal tax/legal automation around founder paperwork.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -31,19 +36,19 @@ I'm at WaveMaker building the code-gen layer that converts proprietary markup in
 
 I'm also building Trevyn, an AI PR reviewer that reads repo context before commenting, and I think that product + systems mix fits the kind of legal-fintech workflow Dynasty is building.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 ### Cold Message (LinkedIn / InMail)
-hey Alessandro, saw Dynasty's HN post for the junior engineer role. I'm at WaveMaker building a code-gen layer that turns proprietary markup into production Next.js, and before that I was founding engineer at Rava where I owned backend, agents, billing, and deployment from scratch. Dynasty's QSBS trust product feels like the kind of workflow-heavy product I like building, happy to jump on a call.
+hey Alessandro, saw Dynasty's HN post for the junior engineer role. I'm at WaveMaker building a code-gen layer that turns proprietary markup into production Next.js, and before that I was founding engineer at Rava where I owned backend, agents, billing, and deployment from scratch. Dynasty's QSBS trust product feels like the kind of workflow-heavy product I like building, if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
 
 ### Twitter DM
-hey Alessandro, saw Dynasty is hiring a junior engineer from the HN post. I'm at WaveMaker working on Next.js code generation, previously founding engineer at Rava, and I'm building Trevyn for repo-aware AI code review. the QSBS trust workflow looks like a sharp legal-fintech product, happy to jump on a call.
+hey Alessandro, saw Dynasty is hiring a junior engineer from the HN post. I'm at WaveMaker working on Next.js code generation, previously founding engineer at Rava, and I'm building Trevyn for repo-aware AI code review. the QSBS trust workflow looks like a sharp legal-fintech product, if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

@@ -16,6 +16,11 @@
   - https://posthog.com/blog/series-d
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -29,7 +34,7 @@ I'm at WaveMaker building the code generation layer that turns custom markup int
 
 I also built Trevyn, an AI PR reviewer that reads repo context for grounded review comments, which feels close to the kind of engineering product work PostHog ships.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -43,7 +48,7 @@ I'm at WaveMaker building a markup to Next.js/React codegen layer, and earlier a
 
 I also built Trevyn, an AI PR reviewer that uses full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -55,7 +60,7 @@ I'm at WaveMaker building the codegen layer from custom markup to production Nex
 
 I also built Trevyn, an AI PR reviewer using repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

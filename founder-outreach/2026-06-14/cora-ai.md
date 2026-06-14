@@ -23,6 +23,11 @@ Cora's technical ask from HN: voice agents, multi-agent orchestration, RAG pipel
 
 Location note: the post says remote US only, with SF Bay Area or LA preferred. Raj is India-based, so this is a reach unless they are open to contractor or relocation paths. The fit is strong on work, weaker on location.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -36,7 +41,7 @@ at WaveMaker, I work on the code-gen layer that turns proprietary markup into pr
 
 side project: Trevyn, an AI PR reviewer that uses tree-sitter to understand repo context before writing review comments.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ saw Cora's founding full stack / applied AI role on HN. the work around account 
 
 at WaveMaker, I build the code-gen layer that turns proprietary markup into production Next.js output. I also built Trevyn, an AI PR reviewer that uses tree-sitter for repo-level context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -60,7 +65,7 @@ I'm at WaveMaker building the code-gen layer that turns proprietary markup into 
 
 also building Trevyn, an AI PR reviewer that uses tree-sitter for repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

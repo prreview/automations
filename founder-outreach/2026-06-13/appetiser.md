@@ -15,6 +15,11 @@
   - https://appetiser.com.au/just-build-it
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -26,7 +31,7 @@ Saw the junior full-stack role at Appetiser on We Work Remotely. I’m at WaveMa
 
 I’ve also built Trevyn, an AI PR reviewer that reads repo context before commenting, so the mix of product delivery and clean engineering at Appetiser feels close to how I like to work.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -38,7 +43,7 @@ Saw Appetiser is hiring a junior full-stack developer. I’m at WaveMaker workin
 
 I also built Trevyn, an AI PR reviewer grounded in full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ hey Michael, saw Appetiser is hiring for a junior full-stack role.
 
 I’m at WaveMaker building the code-gen layer for production Next.js/React, previously full-stack at Rava on LLM workflows and backend systems. I also built Trevyn, an AI PR reviewer that reads repo context before commenting.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

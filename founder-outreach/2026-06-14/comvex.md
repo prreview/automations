@@ -18,6 +18,11 @@ Comvex is a good match for Raj's Rava and WaveMaker work. The role asks for Djan
 
 Risk: the HN post says the role is remote for the USA or South America. Raj should still try a direct email because the post also says education is flexible and rates depend on location, but this is a location mismatch unless they are open to India contractors.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -31,7 +36,7 @@ I’m at WaveMaker building the code-gen layer that turns platform markup into p
 
 I also built Trevyn, an AI PR reviewer that works from full repo context, so the mix of healthcare ops, AI-assisted workflows, and messy integration work at Comvex is exactly the kind of product work I like.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -43,7 +48,7 @@ saw your HN post for Comvex’s full stack role. I’ve been building production
 
 I also built Trevyn, an AI PR reviewer with full repo context. Comvex’s mix of RCM workflows, API integrations, dashboards, and AI-assisted ops feels like a strong fit.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -51,7 +56,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Peter, saw Comvex is hiring full stack for the RCM platform. I work on production Next.js/code-gen at WaveMaker, built LLM/backend/product workflows at Rava, and built Trevyn for repo-aware AI code review. The Django/Next/React/API + AI ops mix looks right up my lane.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

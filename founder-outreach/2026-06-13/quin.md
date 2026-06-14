@@ -21,6 +21,11 @@ Quin wants a first engineering hire for backend architecture, TypeScript contrac
 ### Research notes
 Apollo MCP tools were not available in this Hermes tool session, so founder email and LinkedIn could not be checked through Apollo. The email is taken from the HN hiring post. Founder name and LinkedIn were searched through the public website, HN profile, and DuckDuckGo snippets; no verified name or LinkedIn profile was found.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -32,7 +37,7 @@ saw your HN post for Quin’s founding engineer role. Personal finance agents ne
 
 I’m at WaveMaker building the code generation layer that turns internal markup into production Next.js. before that I was at Rava, a 4-person startup where I owned full-stack LLM workflows, RAG features, payments, billing, and deployment from 0 → 1. I’m also building Trevyn, an AI PR reviewer that reads full repo context instead of guessing from a diff. GitHub: github.com/yagyaraj234
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -44,7 +49,7 @@ saw the founding engineer role for Quin. I’ve worked in the kind of small team
 
 currently at WaveMaker, I work on a transpiler that turns internal markup into production Next.js. before that I was at Rava, a 4-person startup, building LLM workflows and backend systems from 0 → 1. I’m also building Trevyn, a repo-aware AI PR reviewer. GitHub: github.com/yagyaraj234
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -54,7 +59,7 @@ saw the Quin founding engineer post on HN.
 
 I’m at WaveMaker building the codegen layer from internal markup to Next.js, previously founding-style full-stack at Rava on LLM workflows and backend systems. I’m also building Trevyn, an AI PR reviewer with full repo context. GitHub: github.com/yagyaraj234
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

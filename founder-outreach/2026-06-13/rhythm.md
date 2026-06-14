@@ -14,6 +14,11 @@
   - https://rhythmpap.com
 - **Ways to Apply**: Cold Email to kanishk@rhythmpap.com / Cold Message on LinkedIn if a founder profile is found later / HN reply to user `kva`
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -27,7 +32,7 @@ at WaveMaker, i work on the code generation layer that turns proprietary markup 
 
 outside work, i'm building Trevyn, an AI PR reviewer that reads repo structure before commenting, so the ML systems plus product ownership at Rhythm is exactly the kind of hard build i want next.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -39,7 +44,7 @@ saw Rhythm is hiring a Senior ML Engineer to build human simulators for PAP beha
 
 also building Trevyn, an AI PR reviewer that works from full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -47,7 +52,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Kanishk, saw the Rhythm ML role from HN. i’m at WaveMaker building codegen systems for production Next.js, previously early engineer at Rava on LLM/RAG workflows, and i’m building Trevyn for repo-aware AI code review. the human simulator work sounds like the kind of hard systems/product problem i’d love to help with.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

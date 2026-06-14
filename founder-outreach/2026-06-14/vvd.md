@@ -15,6 +15,11 @@
   - mailto:vvd@jobs.workablemail.com
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -22,7 +27,7 @@ Subject: Design engineering for vvd
 
 hey Zied
 
-saw the Design Engineer role at vvd and wanted to reach out directly.
+saw the Design Engineer role at vvd and the role looks close to the product and infra work i like.
 
 I'm at WaveMaker building the code-gen layer that turns custom markup into production Next.js, with live preview, component systems, and app architecture work baked into the core platform.
 
@@ -30,7 +35,7 @@ before that I was a founding engineer at Rava.ai on a 4-person team, and I'm als
 
 vvd feels close to the kind of product work I enjoy: sharp frontend craft, creator workflows, and systems that help people build worlds faster.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -42,7 +47,7 @@ I work at WaveMaker on the code-gen layer that turns custom markup into producti
 
 I'm also building Trevyn, an AI PR reviewer that reads full repo context, and vvd's creator tooling feels like the kind of frontend-heavy product I'd love to help build.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -54,7 +59,7 @@ I'm at WaveMaker building a code-gen layer into production Next.js, and before t
 
 also building Trevyn, an AI PR reviewer with full repo context; would love to help with vvd's creator tools and frontend craft.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

@@ -15,18 +15,23 @@
   - https://www.voiceops.com/careers
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
 hi Ethan,
 
-came across the founding ai engineer role at Voiceops and wanted to reach out.
+came across the founding ai engineer role at Voiceops and the stack looks close to the product and infra work i like.
 
 i've spent 2.6+ years building product systems end to end, from a WaveMaker transpiler that turns proprietary markup into production next.js to a 4-person rava team where i owned backend, frontend, and deploys, and i keep my work here: github.com/yagyaraj234.
 
 i also built trevyn, a pr reviewer that reads full repo context, and Voiceops feels like the kind of place where that mix would help.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -34,13 +39,13 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey Ethan,
 
-saw the founding ai engineer opening at Voiceops and wanted to reach out.
+saw the founding ai engineer opening at Voiceops and the stack looks close to the product and infra work i like.
 
 i'm at wavemaker building a transpiler that turns proprietary markup into production next.js, and before that i was a founding engineer at rava on a 4-person team, owning the backend, frontend, and deploys; github.com/yagyaraj234.
 
 i also built trevyn, a pr reviewer that reads full repo context, and i'd love to chat if you're open to it.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -54,7 +59,7 @@ i'm at wavemaker building a transpiler into production next.js, and i was a foun
 
 i built trevyn too, a pr reviewer that reads full repo context, and i think i'd fit well there.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

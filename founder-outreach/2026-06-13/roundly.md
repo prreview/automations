@@ -17,6 +17,11 @@
 ## CV Match
 Raj is a good fit for the React side of Roundly because WaveMaker maps directly to product UI work: codegen into production Next.js/React, custom component systems, routing, and build-time behavior. Rava also fits the feedback loop side: LLM workflows, RAG patterns, browser caching, CI/CD, and owning product work across frontend and backend. Trevyn is useful proof for reviewing and grounding code context, which matters if Roundly is moving fast with a small team.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ saw the Engineer role for Roundly on HN. nurse interview prep feels like a sharp
 
 currently at WaveMaker, i work on the code-gen layer that turns proprietary markup into production Next.js/React. before that at Rava, i built full-stack LLM workflows from scratch, and i'm building Trevyn, an AI PR reviewer that reads repo context before commenting.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -40,7 +45,7 @@ saw Roundly is hiring an engineer for the nurse mock panel product. i work on Re
 
 think i'd fit well for a small team building product fast across frontend and backend.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Nesra, saw Roundly is hiring an engineer. i work on React/Next.js codegen at WaveMaker, built LLM workflows at Rava, and i'm building Trevyn, a repo-aware AI PR reviewer. the mock panel + feedback product looks like the kind of small-team build i'd enjoy.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

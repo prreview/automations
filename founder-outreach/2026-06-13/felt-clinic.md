@@ -15,6 +15,11 @@
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 - **Fit for Raj**: Strong frontend-heavy full-stack fit. Felt wants Next.js, RSC, SDK/API work, real-time communication, and product ownership. Raj has built WaveMaker's code generation layer that turns custom markup into production Next.js/React, worked on Rava's LLM workflows and backend systems, and built Trevyn for repo-aware AI PR review. The only weak point is location: Felt says Remote US only, so this is worth a direct reach-out only if they can consider an India-based engineer working US overlap.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ at WaveMaker, i work on the code generation layer that converts custom markup in
 
 side project i'm building: Trevyn, an AI PR reviewer that reads repo context before commenting. Felt feels like the kind of product where good frontend architecture and careful backend edges both matter.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -40,7 +45,7 @@ saw Felt's Web Engineer role on HN. i've been building the codegen layer at Wave
 
 Trevyn is my side project, an AI PR reviewer built around repo context. Felt's embedded care SDK work maps well to the kind of product-heavy engineering i like.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -50,7 +55,7 @@ hey, saw Felt is hiring a Web Engineer for the embedded care SDK.
 
 currently at WaveMaker building the Next.js/React codegen layer. before that, founding-style full-stack work at Rava, plus Trevyn on the side for AI PR review with repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

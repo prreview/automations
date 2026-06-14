@@ -17,6 +17,11 @@
 - **Tech Stack**: React, TypeScript, Kotlin, Java, Scala, Python, LLM evals, document analysis, interactive chat, OpenAI, Anthropic, Gemini, Parallel.ai, MLflow, DVC, Weights & Biases, cloud ML deployment, scraping and parsing pipelines.
 - **CV Match**: Strong match. Raj has WaveMaker experience building a code generation layer that turns proprietary markup into production Next.js/React, Trevyn experience with tree-sitter backed AI code review, and Rava.ai experience with RAG workflows, content agents, backend systems, CI/CD, payments, and deployment. Starbridge needs applied AI plus product engineering for document analysis, proposal writing, search, and production LLM features.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ saw Starbridge is hiring an AI Engineer for EMEA/LATAM after the June 12 Ashby p
 
 I’m at WaveMaker building the codegen layer that turns proprietary markup into production Next.js, built Trevyn for repo-aware AI PR review with tree-sitter context, and before that built Rava.ai LLM workflows across backend, payments, deployment, and RAG.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -38,7 +43,7 @@ hey Justin, saw Starbridge is hiring for AI engineering around public-sector dat
 
 I’m at WaveMaker building the codegen layer from proprietary markup to production Next.js, built Trevyn for repo-aware AI PR review, and earlier built Rava.ai workflows across LLMs, backend, payments, and deployment.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ hey Justin, saw Starbridge is hiring AI engineers for public-sector data, propos
 
 I’m at WaveMaker working on codegen to production Next.js, built Trevyn for repo-aware AI PR review, and earlier built Rava.ai LLM workflows end to end.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

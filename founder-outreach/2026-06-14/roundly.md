@@ -25,6 +25,11 @@ Raj is a good match on React, Next.js, TypeScript, product UI, and early team ow
 ## Apollo / founder contact status
 Apollo MCP tools were required by the playbook, but this Hermes run did not expose `mcp_apollo_search_people` or `mcp_apollo_enrich_person` in the available tool namespace. I did not guess LinkedIn URLs or founder emails. The only verified contact found was the HN hiring email: nesra@roundlyhq.com.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -38,7 +43,7 @@ I’m at WaveMaker building the code generation layer that converts custom marku
 
 I’d be useful on the React side and the AI product loops behind mock panels; I also built Trevyn, a repo-aware AI PR reviewer that works from full code context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -50,7 +55,7 @@ saw Roundly is hiring an engineer, I like the nurse residency prep focus and the
 
 I’m at WaveMaker building React/Next.js codegen, before that founding engineer at Rava on LLM workflows and backend systems, and I built Trevyn for repo-aware AI code review.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -58,7 +63,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Nesra, saw Roundly is hiring an engineer. I’m at WaveMaker building React/Next.js codegen, was founding engineer at Rava on LLM workflows/backend, and built Trevyn for repo-aware AI PR review. Roundly’s nurse panel prep product feels like a strong fit for my frontend + AI product work.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

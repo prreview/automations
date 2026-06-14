@@ -17,6 +17,11 @@
 
 Raj match: strong on TypeScript, Node.js, Next.js, React, GitHub Actions, LLM workflows, RAG patterns, code generation, and AI review tooling. WaveMaker maps to their need for production TypeScript and AI-assisted engineering systems. Trevyn maps to trace quality and codebase context: it reviews code from repo context with diff-level comments tied back to the codebase. Rava maps to LLM workflows, document embeddings, backend ownership, payments, billing, and shipping in a 4-person team. The gap is desktop capture and OS-level APIs, so the best outreach angle is AI systems, evidence quality, and end-to-end ownership with honest positioning around AI systems, evidence quality, and end-to-end ownership.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -30,7 +35,7 @@ I’m at WaveMaker building the code generation layer that converts WaveMaker ma
 
 Before that I was a founding engineer at Rava, a 4-person AI startup, where I owned LLM workflows, backend systems, deployment, payments, and customer-facing product work from zero.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -42,7 +47,7 @@ saw Emergences is hiring for the AI / Systems Engineer role on NeoHuman. the tra
 
 I’m at WaveMaker building a codegen layer that turns WaveMaker markup into production Next.js, and I’m building Trevyn, an AI PR reviewer grounded in full repo context. before that, founding engineer at Rava, owned LLM workflows and backend/product work in a 4-person team.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -54,7 +59,7 @@ I build AI-heavy product systems: WaveMaker codegen into Next.js, Trevyn for rep
 
 The evidence pipeline for real AI work sessions is exactly the kind of problem I want to work on.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

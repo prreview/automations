@@ -14,6 +14,11 @@
   - https://foam.ai/careers
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -22,7 +27,7 @@ Hi Perla, Luke, and Shawn,
 Came across the Foam hiring post and the work hits the stuff I like most, observability that finds the break, ties it to the right person, and hands over a fix.
 At WaveMaker I built the code generation layer that turns proprietary markup into Next.js output, before that I was a founding engineer at Rava on a 4-person team, and Trevyn is my PR reviewer that reads the repo context before it comments.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | github.com/yagyaraj234 | trevyn.dev
@@ -32,7 +37,7 @@ Hey Perla,
 
 Saw the Foam post and liked the direction. I build codegen at WaveMaker, was a founding engineer at Rava, and I’m building Trevyn, a PR reviewer that works from repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | github.com/yagyaraj234 | trevyn.dev
@@ -42,7 +47,7 @@ Hey Perla,
 
 Saw the Foam hiring post. I’m at WaveMaker on codegen, I was a founding engineer at Rava, and I build Trevyn on the side.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | github.com/yagyaraj234 | trevyn.dev

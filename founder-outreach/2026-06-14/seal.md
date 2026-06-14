@@ -18,6 +18,11 @@
 ## Match to Raj
 Raj is a strong match for the product engineering side. At WaveMaker, he works on a code generation transpiler that converts internal markup into production Next.js and React output, which maps well to Seal's platform model where customer workflows behave like versioned config and change sets. Rava.ai gives him the early-team muscle Seal wants: LLM workflows, RAG patterns, backend ownership, payments, deployment, and moving from vague product needs to shipped systems. Trevyn adds the repo-context AI angle, useful for a team building AI over structured process definitions rather than chat slapped onto a dashboard.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -31,7 +36,7 @@ I'm at WaveMaker building the code-gen layer that converts internal markup into 
 
 I'm also building Trevyn, an AI PR reviewer that works from full repo context, and I'd love to bring that mix of frontend systems, AI tooling, and early-stage ownership to Seal.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -45,7 +50,7 @@ I'm at WaveMaker building a transpiler from internal markup to production Next.j
 
 Also building Trevyn, an AI code review tool that uses repo context instead of only the diff.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -53,7 +58,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Will, saw Seal's Founding Product Engineer role. I'm building code-gen at WaveMaker, internal markup to production Next.js, and earlier was a founding engineer at Rava.ai owning LLM workflows and backend from zero. Also building Trevyn, an AI PR reviewer with full repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

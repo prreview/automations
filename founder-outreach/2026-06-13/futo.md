@@ -15,6 +15,11 @@
   - https://futo.tech/jobs/app-developer-polycentric
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ I’m at WaveMaker building the code generation layer that turns internal markup
 
 I’d love to help ship the Polycentric mobile and web app with the same end-to-end ownership.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -40,7 +45,7 @@ saw the React Native role for Polycentric. i’m at WaveMaker building the code-
 
 also building Trevyn, an AI PR reviewer that uses full repo context. Polycentric’s identity and distributed social work looks like the kind of product i’d enjoy owning end to end.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Eron, saw FUTO is hiring for Polycentric. i’m building code-gen infra at WaveMaker, was founding engineer at Rava, and i’m building Trevyn for AI code review with full repo context. would love to help ship the React Native side of Polycentric.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

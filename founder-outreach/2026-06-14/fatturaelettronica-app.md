@@ -18,6 +18,11 @@
 ## Match Notes
 Raj is strongest where this role touches React product work, production UI, and boring business workflows that need speed and care. WaveMaker maps well to the web app layer: React and Next.js output, component systems, live app behavior, and front-end architecture. Rava maps to backend ownership, payments, billing, deployment, and shipping inside a small team. Trevyn is a useful extra signal because the role asks for engineers who can reason through code quality, not just push UI.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -25,13 +30,13 @@ Subject: Full-stack work on FatturaElettronica APP
 
 Hi,
 
-Saw the Full-Stack Web App Developer role for FatturaElettronica APP and wanted to reach out directly.
+Saw the Full-Stack Web App Developer role for FatturaElettronica APP and the role looks close to the product and infra work i like.
 
 I’m at WaveMaker building the code-gen layer that turns proprietary markup into production Next.js/React output. Before that, I was a founding engineer at Rava, a 4-person team where I owned backend, payments, billing, deployment, and product work from 0 to 1.
 
 I also built Trevyn, an AI PR reviewer that reads repo structure with tree-sitter, so I care a lot about clean code and review quality.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -43,7 +48,7 @@ Saw the full-stack role at FatturaElettronica APP. I work at WaveMaker on React/
 
 I also built Trevyn, an AI PR reviewer that uses repo context instead of only the diff.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -53,7 +58,7 @@ hey, saw the full-stack role at FatturaElettronica APP.
 
 i’m at WaveMaker building the React/Next.js code-gen layer, and before that was founding engineer at Rava owning backend, billing, deployment, and product work from 0 to 1. also built Trevyn, an AI PR reviewer with repo context.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

@@ -15,6 +15,11 @@
   - https://www.ycombinator.com/companies/enveritas
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ I’m at WaveMaker building the codegen layer that turns app markup into product
 
 The mix of Python, Postgres/PostGIS, AWS, and field ops feels close to the kind of product engineering I like: messy real-world data, clear users, and systems people depend on.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -40,7 +45,7 @@ Saw the Enveritas backend engineer role from the June HN hiring thread. I’m at
 
 The coffee supply-chain data work, especially Postgres/PostGIS plus field systems, looks like the kind of backend product work I’d love to help with.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -52,7 +57,7 @@ I’m at WaveMaker building codegen into production Next.js, previously built LL
 
 The field data + PostGIS supply-chain work looks right up my lane.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

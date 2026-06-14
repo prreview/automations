@@ -19,6 +19,11 @@
 ## Match Notes
 Raj is a stronger fit for the platform side than pure perception research. WaveMaker maps to production React and Next.js generation work, Rava maps to LLM workflows, caching, CI/CD, and backend ownership, and Trevyn maps to code intelligence with full repo context. The best angle is: he can help turn sensor and ML outputs into production tools farmers can trust, especially dashboards, workflow layers, and backend services around AI outputs.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -32,7 +37,7 @@ I’m at WaveMaker building the code generation layer that turns proprietary mar
 
 I also built Trevyn, an AI PR reviewer that works from full repo context, and I think that mix of frontend, backend, and AI systems maps well to the product layer around your farm data.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -46,7 +51,7 @@ I’m at WaveMaker building a transpiler into production Next.js, before that I 
 
 I also built Trevyn, an AI PR reviewer that reads full repo context. Think I could help on the product and platform layer around Aquabyte’s computer vision outputs.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -58,7 +63,7 @@ I’m at WaveMaker building a codegen layer into production Next.js. before that
 
 think I could help on the platform layer around your vision and farm data.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

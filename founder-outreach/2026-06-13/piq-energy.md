@@ -19,6 +19,11 @@ The June 1, 2026 HN post is 12 days old as of this run, so it passes the 21-day 
 
 Raj is a strong product-engineering match. WaveMaker maps to the frontend and code-generation side: converting proprietary markup into production Next.js/React, routing, component systems, and live app behavior. Rava maps to the full-stack and AI workflow side: RAG flows, document embeddings, CI/CD, caching, and production API work. Trevyn maps to the AI-agent side: repo-aware PR review using code structure instead of shallow diff-only context.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -32,7 +37,7 @@ I’m at WaveMaker building the code generation layer that converts proprietary 
 
 I’m also building Trevyn, an AI PR reviewer that reads repo structure with tree-sitter so comments are grounded in how the codebase is wired.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -46,7 +51,7 @@ At WaveMaker, I work on a transpiler that turns proprietary markup into producti
 
 I’m also building Trevyn, an AI PR reviewer that understands repo structure through tree-sitter.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -54,7 +59,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Piq team, saw the full-stack role from HN. I’m at WaveMaker building the code-gen layer from proprietary markup to production Next.js/React, and before that built LLM/RAG workflows, APIs, caching, and deployment at Rava from 0 -> 1. also building Trevyn, an AI PR reviewer that reads repo structure with tree-sitter.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

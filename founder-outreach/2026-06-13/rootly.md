@@ -18,6 +18,11 @@
 ## Role match for Raj
 Rootly is a strong match for Raj’s WaveMaker work because the product needs frontend-heavy engineering across workflows, live state, integrations, and polished product surfaces used during production incidents. His Rava.ai work maps well to Rootly’s AI SRE direction: LLM workflows, RAG patterns, customer-facing automation, and backend ownership on a tiny team. Trevyn is relevant because it shows he can build developer tools that inspect code context and return useful review output, which fits Rootly’s work around engineering operations and incident follow-up.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -31,7 +36,7 @@ currently at WaveMaker, i work on the code generation layer that converts propri
 
 also building Trevyn, an AI PR reviewer that reads full repo context, and i think that mix of product engineering plus AI tooling would fit Rootly well.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -43,7 +48,7 @@ saw Rootly is hiring across engineering, including APAC remote. i’m at WaveMak
 
 also building Trevyn, an AI PR reviewer that works from full repo context. Rootly’s incident response + AI SRE direction feels close to the kind of engineering tools i like building.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -53,7 +58,7 @@ hey Quentin, saw Rootly is hiring APAC remote. i work at WaveMaker on a code-gen
 
 Rootly’s AI SRE work feels like a strong fit for the kind of dev tooling and workflow systems i like building.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

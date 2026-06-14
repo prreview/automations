@@ -17,6 +17,11 @@
 
 Booko wants someone to own demand forecasting, price-response modeling, live agents that act across customer systems, and production ML experiments. Raj is a strong match on agent workflows and production AI work through Rava, plus code-generation and React/Next.js systems at WaveMaker. Location caveat: the YC job says Remote US and US visa only, so cold outreach is the better path than a standard application.
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -28,7 +33,7 @@ Saw Booko's founding ML engineer role on YC. The slot-level demand forecasting a
 
 I'm also building Trevyn, an AI PR reviewer that works from repo context, so the part about making agents decide and act inside live customer systems is exactly the kind of engineering I like.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -40,7 +45,7 @@ saw Booko's founding ML engineer role on YC. i've built AI workflows at Rava for
 
 also building Trevyn, an AI PR reviewer that reads repo context. Booko's pricing agents and demand models feel very close to the kind of systems i like building.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,7 +53,7 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey Arjun, saw Booko's founding ML engineer role on YC. i've built production AI workflows at Rava and now work on WaveMaker's code-gen layer for production Next.js apps. also building Trevyn, an AI PR reviewer with full repo context. Booko's pricing agents seem like my kind of work.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

@@ -20,6 +20,11 @@ Albert’s HN post asks for engineers who can own 0 to 1 consumer products, ship
 
 The role may skew more senior than Raj’s current 2.6+ years, so the outreach should lead with shipped product work rather than years. The strongest hook is: “I’ve built product surfaces and backend systems from blank page to production, and I’m already working where frontend, codegen, and AI meet.”
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -33,7 +38,7 @@ I’m at WaveMaker building the code generation layer that turns proprietary mar
 
 I also built Trevyn, an AI PR reviewer that reads repo context before writing comments, and I’d love to bring that 0 to 1 builder energy to Albert.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -47,7 +52,7 @@ I’m at WaveMaker building the code-gen layer from proprietary markup to produc
 
 I also built Trevyn, an AI PR reviewer that reads repo context before writing comments.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -57,7 +62,7 @@ hey Yinon, saw Albert is hiring engineers to build new consumer products from ze
 
 I’m at WaveMaker building production Next.js codegen, previously founding engineer at Rava, and I built Trevyn for repo-aware AI PR reviews.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

@@ -15,18 +15,23 @@
   - https://www.joincarma.com/
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
 hey suleyman,
 
-came across the carma founding roles and wanted to reach out directly.
+saw the carma founding roles. the fleet ops problem looks close to the product and infra work i like.
 
 i’m at wavemaker building the layer that turns internal markup into production next.js, and before that i was a founding engineer at rava, where i owned the backend, agents, billing, and deploys from zero; i’m also building trevyn, a pr reviewer that reads full repo context before it comments.
 
 carma feels like the kind of work i want next, shipping software that lands in front of real fleet operators fast.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -34,13 +39,13 @@ yagyaraj.com | trevyn.dev
 ### Cold Message (LinkedIn / InMail)
 hey suleyman,
 
-saw the carma founding roles and wanted to reach out.
+saw the carma founding roles. the fleet ops problem looks close to the product and infra work i like.
 
 i’m at wavemaker building the layer that turns internal markup into production next.js, and before that i was a founding engineer at rava, where i owned the backend, agents, billing, and deploys from zero; i’m also building trevyn, a pr reviewer that reads full repo context before it comments.
 
 carma looks like the kind of work i want next, shipping software that gets used by real fleet teams fast.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -48,13 +53,13 @@ yagyaraj.com | trevyn.dev
 ### Twitter DM
 hey suleyman,
 
-saw the carma founding roles and wanted to reach out.
+saw the carma founding roles. the fleet ops problem looks close to the product and infra work i like.
 
 i’m at wavemaker building the layer that turns internal markup into production next.js, and before that i was a founding engineer at rava, where i owned the backend, agents, billing, and deploys from zero; i’m also building trevyn, a pr reviewer that reads full repo context before it comments.
 
 carma looks like the kind of work i want next.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev

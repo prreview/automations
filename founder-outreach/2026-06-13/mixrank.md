@@ -16,6 +16,11 @@
   - https://www.ycombinator.com/companies/mixrank/jobs/Fnwsojk-junior-software-engineer-remote-global-full-time
 - **Ways to Apply**: Cold Email / Cold Message on Twitter / Cold Message on LinkedIn
 
+## Fit Check
+- use this only when the stack lines up with my resume
+- pick the matching resume slice: full stack, backend, ai, or frontend
+- if the stack does not fit, skip the outreach
+
 ## Draft Outreach
 
 ### Cold Email
@@ -29,7 +34,7 @@ currently at WaveMaker, i work on the code-gen layer that turns WaveMaker markup
 
 outside work i’m building Trevyn, an AI PR reviewer that reads repo context with tree-sitter, and i’d love to bring that builder mindset to MixRank.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -41,7 +46,7 @@ saw MixRank is hiring global remote engineers. i’m at WaveMaker building codeg
 
 also building Trevyn, an AI PR reviewer that uses repo context through tree-sitter. MixRank’s web crawling, app analysis, and data infra work feels like a strong fit.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
@@ -51,7 +56,7 @@ hey Scott, saw MixRank hiring global remote engineers through HN. i work on Wave
 
 MixRank’s crawling + app analysis work looks right up my alley.
 
-happy to jump on a call.
+if the stack is a fit, happy to chat.
 
 Raj
 yagyaraj.com | trevyn.dev
