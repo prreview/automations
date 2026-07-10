@@ -28,9 +28,7 @@ i'm at WaveMaker building the code-gen layer, a transpiler that converts proprie
 
 i also built Trevyn (https://trevyn.dev), an AI PR reviewer that uses tree-sitter to give AI agents grounded codebase context instead of guessing from the diff.
 
-building AI products for Indian courts, especially the LLM-based document intelligence and transcription layers, is the kind of work i want to do. happyo to jump on a call.
-
-happy to jump on a call.
+building AI products for Indian courts, especially the LLM-based document intelligence and transcription layers, is the kind of work i want to do.
 
 Raj
 yagyaraj.com | trevyn.dev
