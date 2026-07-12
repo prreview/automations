@@ -1,0 +1,512 @@
+# 2026-07-12 02:00 IST blocker and rejections
+
+Generated qualifying reports: 21
+
+## blockers
+
+- Apollo MCP search failed: server unreachable after 34 consecutive failures, so contacts used YC/public fallback.
+- YC Work at a Startup was the only source that returned structured, source-backed headcount plus active jobs at scale in this run.
+- After dedupe against existing reports and strict filters (team 5-30, frontend/frontend-leaning full-stack, max experience 5, current role page), only the reports above passed. I did not add weak matches to reach 50.
+
+## rejected YC candidates sampled
+
+- isono-health: experience >5: 6+ years
+- shape-shapescale: no frontend/fullstack fit
+- agilemd: no frontend/fullstack fit
+- branch8: no frontend/fullstack fit
+- heroic-labs: no frontend/fullstack fit
+- snapmagic: no frontend/fullstack fit
+- new-story: no frontend/fullstack fit
+- tara-ai: no frontend/fullstack fit
+- tab: non-India and no explicit remote
+- piinpoint: no frontend/fullstack fit
+- zentail: experience >5: 6+ years
+- hop-aero: no frontend/fullstack fit
+- screenpipe: no frontend/fullstack fit
+- intelligence-factory: non-India and no explicit remote
+- manicule: no frontend/fullstack fit
+- arzana: non-India and no explicit remote
+- anoria: non-India and no explicit remote
+- tasklet-2: experience >5: 6+ years
+- aseon-labs: no frontend/fullstack fit
+- minicor: non-India and no explicit remote
+- gojiberry-ai: no frontend/fullstack fit
+- synphony: non-India and no explicit remote
+- dayjob: no frontend/fullstack fit
+- wayco: non-India and no explicit remote
+- general-legal: non-India and no explicit remote
+- pocket: experience >5: 6+ years
+- samora-ai: no frontend/fullstack fit
+- 9-mothers-corporation: experience >5: 6+ years
+- maywood: no frontend/fullstack fit
+- hex-security: non-India and no explicit remote
+- moritz: no frontend/fullstack fit
+- pirislabs: non-India and no explicit remote
+- lance: non-India and no explicit remote
+- didit: no frontend/fullstack fit
+- clara-2: no frontend/fullstack fit
+- ploy: non-India and no explicit remote
+- catchback-cards: no frontend/fullstack fit
+- item: non-India and no explicit remote
+- moss: experience >5: 6+ years
+- clicks: no frontend/fullstack fit
+- vector-legal: non-India and no explicit remote
+- antigen: no frontend/fullstack fit
+- jarmin: non-India and no explicit remote
+- karumi: non-India and no explicit remote
+- lua-global-inc: no frontend/fullstack fit
+- imagine-ai: non-India and no explicit remote
+- leadbay: non-India and no explicit remote
+- sunflower: no frontend/fullstack fit
+- multifactor: non-India and no explicit remote
+- sf-tensor: non-India and no explicit remote
+- wardstone: no frontend/fullstack fit
+- hyperspell: no frontend/fullstack fit
+- bolna-ai: no frontend/fullstack fit
+- structured-ai: non-India and no explicit remote
+- uplane: no frontend/fullstack fit
+- aircaps: non-India and no explicit remote
+- brickanta: non-India and no explicit remote
+- f2: non-India and no explicit remote
+- nox-metals: non-India and no explicit remote
+- luminal: no frontend/fullstack fit
+- freya: no frontend/fullstack fit
+- veritus: non-India and no explicit remote
+- vulcan-technologies: non-India and no explicit remote
+- interfere: non-India and no explicit remote
+- perspectives-health: non-India and no explicit remote
+- magnetic: non-India and no explicit remote
+- fleetline: non-India and no explicit remote
+- altur: non-India and no explicit remote
+- idler: non-India and no explicit remote
+- finto-de: non-India and no explicit remote
+- manufact: no frontend/fullstack fit
+- solva: non-India and no explicit remote
+- nozomio: non-India and no explicit remote
+- comena: non-India and no explicit remote
+- flai: no frontend/fullstack fit
+- ondeck-ai: non-India and no explicit remote
+- wafer: non-India and no explicit remote
+- galactic-resource-utilization-space-inc-gru-space: no frontend/fullstack fit
+- verne-robotics: no frontend/fullstack fit
+- lanesurf: no frontend/fullstack fit
+- blank-bio: non-India and no explicit remote
+- truthsystems: no frontend/fullstack fit
+- agentmail: non-India and no explicit remote
+- halluminate: non-India and no explicit remote
+- the-prompting-company: non-India and no explicit remote
+- dedalus-labs: non-India and no explicit remote
+- getasap: no frontend/fullstack fit
+- prox: non-India and no explicit remote
+- autonomous-technologies-group: non-India and no explicit remote
+- godela: non-India and no explicit remote
+- cascade-space: no frontend/fullstack fit
+- airweave: non-India and no explicit remote
+- lumari: non-India and no explicit remote
+- chrt: non-India and no explicit remote
+- morphoai: non-India and no explicit remote
+- third-chair: no frontend/fullstack fit
+- besimple-ai: no frontend/fullstack fit
+- novoflow: non-India and no explicit remote
+- lucis: no frontend/fullstack fit
+- combinely: no frontend/fullstack fit
+- parsewise: no frontend/fullstack fit
+- bluejay: non-India and no explicit remote
+- mbodi-ai: non-India and no explicit remote
+- sim: non-India and no explicit remote
+- claim-health: non-India and no explicit remote
+- auctor: non-India and no explicit remote
+- minerva: no frontend/fullstack fit
+- avallon-ai: non-India and no explicit remote
+- qfex: no frontend/fullstack fit
+- blaxel: non-India and no explicit remote
+- sammy-labs: non-India and no explicit remote
+- mercura: non-India and no explicit remote
+- browser-use: no frontend/fullstack fit
+- spott: no frontend/fullstack fit
+- proception-inc: no frontend/fullstack fit
+- reditus-space: no frontend/fullstack fit
+- harper: non-India and no explicit remote
+- calltree: no frontend/fullstack fit
+- nitrode: non-India and no explicit remote
+- confident-ai: non-India and no explicit remote
+- solidroad: non-India and no explicit remote
+- trata: non-India and no explicit remote
+- pluto: no frontend/fullstack fit
+- athenahq: non-India and no explicit remote
+- asteroid: non-India and no explicit remote
+- pax-markets: no frontend/fullstack fit
+- hud: non-India and no explicit remote
+- healthkey: no frontend/fullstack fit
+- osmosis: no frontend/fullstack fit
+- cifrato: no frontend/fullstack fit
+- zeroentropy: non-India and no explicit remote
+- salespatriot: non-India and no explicit remote
+- weave-3: non-India and no explicit remote
+- maritime-fusion: no frontend/fullstack fit
+- contrario: no frontend/fullstack fit
+- promptless: non-India and no explicit remote
+- scout-4: non-India and no explicit remote
+- splash-inc: non-India and no explicit remote
+- steinmetz: no frontend/fullstack fit
+- flowtel: experience >5: 6+ years
+- leaping-ai: no frontend/fullstack fit
+- bild-ai: non-India and no explicit remote
+- asha-health: no frontend/fullstack fit
+- apolink: non-India and no explicit remote
+- loombotic: non-India and no explicit remote
+- careforce: experience >5: 6+ years
+- ember: non-India and no explicit remote
+- ryvn: non-India and no explicit remote
+- capy: non-India and no explicit remote
+- collectwise: no frontend/fullstack fit
+- origami-2: no frontend/fullstack fit
+- autumn: non-India and no explicit remote
+- curo: non-India and no explicit remote
+- abundant: no frontend/fullstack fit
+- crustdata: experience >5: 6+ years
+- beglaubigtde: no frontend/fullstack fit
+- ctgt: no frontend/fullstack fit
+- revyl: non-India and no explicit remote
+- moonset-health: non-India and no explicit remote
+- telli: non-India and no explicit remote
+- conductor: non-India and no explicit remote
+- syntra: no frontend/fullstack fit
+- simcare: no frontend/fullstack fit
+- arva-ai: non-India and no explicit remote
+- overlap: non-India and no explicit remote
+- capitol-ai: no frontend/fullstack fit
+- anglera: no frontend/fullstack fit
+- no-logo: non-India and no explicit remote
+- diode-computers-inc: non-India and no explicit remote
+- usul: non-India and no explicit remote
+- bucket-robotics: experience >5: 6+ years
+- elayne: experience >5: 6+ years
+- draft-the-record: no frontend/fullstack fit
+- assembly-hoa: no frontend/fullstack fit
+- vendra: non-India and no explicit remote
+- dataleap: non-India and no explicit remote
+- helium: non-India and no explicit remote
+- finosu: non-India and no explicit remote
+- cartage: non-India and no explicit remote
+- youshift: no frontend/fullstack fit
+- simple-ai: non-India and no explicit remote
+- presti-ai: no frontend/fullstack fit
+- the-forecasting-company: no frontend/fullstack fit
+- brighterway: non-India and no explicit remote
+- soff: non-India and no explicit remote
+- thunder-compute: no frontend/fullstack fit
+- zeit-ai: no frontend/fullstack fit
+- david-ai: non-India and no explicit remote
+- pax: experience >5: 6+ years
+- planbase: non-India and no explicit remote
+- anara: non-India and no explicit remote
+- saturn: non-India and no explicit remote
+- clearly-ai: experience >5: 6+ years
+- creativemode: no frontend/fullstack fit
+- kastle: non-India and no explicit remote
+- anthrogen: no frontend/fullstack fit
+- lighthouz-ai: no frontend/fullstack fit
+- pulse-3: non-India and no explicit remote
+- gauge: non-India and no explicit remote
+- weave-robotics: non-India and no explicit remote
+- tandem-2: no frontend/fullstack fit
+- parahelp: non-India and no explicit remote
+- dodo: no frontend/fullstack fit
+- offstream: non-India and no explicit remote
+- willow: no frontend/fullstack fit
+- silurian: no frontend/fullstack fit
+- unbound: non-India and no explicit remote
+- firstwork: no frontend/fullstack fit
+- wordware: non-India and no explicit remote
+- maitai: non-India and no explicit remote
+- phonely: non-India and no explicit remote
+- videogen: non-India and no explicit remote
+- tabula: no frontend/fullstack fit
+- unsloth-ai: no frontend/fullstack fit
+- codes-health: non-India and no explicit remote
+- entangl: non-India and no explicit remote
+- claimsorted: non-India and no explicit remote
+- mdhub: no frontend/fullstack fit
+- hamming-ai: non-India and no explicit remote
+- educato: no frontend/fullstack fit
+- saphira-ai: experience >5: 6+ years
+- mem0: non-India and no explicit remote
+- variant: experience >5: 6+ years
+- domu-technology-inc: non-India and no explicit remote
+- coval: non-India and no explicit remote
+- yarn-2: non-India and no explicit remote
+- crowdvolt: non-India and no explicit remote
+- healia: experience >5: 6+ years
+- trueclaim: non-India and no explicit remote
+- reform: non-India and no explicit remote
+- piramidal: non-India and no explicit remote
+- spur: non-India and no explicit remote
+- senso: no frontend/fullstack fit
+- powder: non-India and no explicit remote
+- commodityai: experience >5: 6+ years
+- deepnight: no frontend/fullstack fit
+- ocular-ai: non-India and no explicit remote
+- spark: non-India and no explicit remote
+- terrakotta: non-India and no explicit remote
+- zep-ai: no frontend/fullstack fit
+- openmart: non-India and no explicit remote
+- artos: non-India and no explicit remote
+- betterbasket: non-India and no explicit remote
+- circleback: non-India and no explicit remote
+- yondu: no frontend/fullstack fit
+- raindrop: non-India and no explicit remote
+- prosights: no frontend/fullstack fit
+- opencall: no frontend/fullstack fit
+- voicepanel: no frontend/fullstack fit
+- offdeal: non-India and no explicit remote
+- andy-ai: non-India and no explicit remote
+- shiboleth: non-India and no explicit remote
+- conduit-ai: no frontend/fullstack fit
+- whip: no frontend/fullstack fit
+- carma: non-India and no explicit remote
+- codeant-ai: no frontend/fullstack fit
+- draftaid: experience >5: 6+ years
+- open: no frontend/fullstack fit
+- infinity: no frontend/fullstack fit
+- tamarind-bio: non-India and no explicit remote
+- clarion: experience >5: 6+ years
+- monumint: non-India and no explicit remote
+- zaymo: non-India and no explicit remote
+- meticulate: non-India and no explicit remote
+- cloudcruise: non-India and no explicit remote
+- atopile: non-India and no explicit remote
+- greenboard: non-India and no explicit remote
+- roe: non-India and no explicit remote
+- arini: non-India and no explicit remote
+- paradigm: non-India and no explicit remote
+- pointone: experience >5: 6+ years
+- pivot-robotics: no frontend/fullstack fit
+- alex-com: non-India and no explicit remote
+- tuesday-labs: no frontend/fullstack fit
+- momentic: non-India and no explicit remote
+- reducto: non-India and no explicit remote
+- poka-labs: non-India and no explicit remote
+- ego: no frontend/fullstack fit
+- navier-ai: no frontend/fullstack fit
+- upsolve-ai: no frontend/fullstack fit
+- onyx: non-India and no explicit remote
+- feanix-biotechnologies: experience >5: 6+ years
+- coba: experience >5: 6+ years
+- nowadays: non-India and no explicit remote
+- giga: non-India and no explicit remote
+- dili: experience >5: 6+ years
+- trayd: experience >5: 6+ years
+- paradedb: no frontend/fullstack fit
+- strada: non-India and no explicit remote
+- fiber-ai: no frontend/fullstack fit
+- sante: non-India and no explicit remote
+- syntheticfi: no frontend/fullstack fit
+- silimate: non-India and no explicit remote
+- andromeda-surgical: no frontend/fullstack fit
+- safetykit: non-India and no explicit remote
+- sola: non-India and no explicit remote
+- converge: non-India and no explicit remote
+- flint-2: no frontend/fullstack fit
+- bolto: non-India and no explicit remote
+- guac: non-India and no explicit remote
+- fortuna-health: non-India and no explicit remote
+- aglide: non-India and no explicit remote
+- maven-bio: no frontend/fullstack fit
+- surface-labs: no frontend/fullstack fit
+- maintouch: non-India and no explicit remote
+- governgpt: no frontend/fullstack fit
+- numen: no frontend/fullstack fit
+- decoda-health: no frontend/fullstack fit
+- skyvern: no frontend/fullstack fit
+- cardinal-gray: non-India and no explicit remote
+- margin: non-India and no explicit remote
+- fleetworks: non-India and no explicit remote
+- outset: no frontend/fullstack fit
+- terminal: experience >5: 6+ years
+- alguna: no frontend/fullstack fit
+- subsets: non-India and no explicit remote
+- airgoods: non-India and no explicit remote
+- electric-air-2: experience >5: 6+ years
+- prosper: no frontend/fullstack fit
+- every: no frontend/fullstack fit
+- cedana: no frontend/fullstack fit
+- readily: non-India and no explicit remote
+- diligent: no frontend/fullstack fit
+- sohar-health: no frontend/fullstack fit
+- sweetspot: non-India and no explicit remote
+- aivideo-com: no frontend/fullstack fit
+- hyperbound: non-India and no explicit remote
+- elyos-ai: no frontend/fullstack fit
+- twenty: no frontend/fullstack fit
+- nectar: no frontend/fullstack fit
+- artie: non-India and no explicit remote
+- hylight: experience >5: 6+ years
+- yuma-ai: non-India and no explicit remote
+- speedy-labs: no frontend/fullstack fit
+- litellm: no frontend/fullstack fit
+- kyber: experience >5: 6+ years
+- escape: experience >5: 6+ years
+- metal: no frontend/fullstack fit
+- vector: non-India and no explicit remote
+- berry: experience >5: 6+ years
+- conduit: non-India and no explicit remote
+- clad: experience >5: 6+ years
+- inbuild: experience >5: 6+ years
+- vendah: no frontend/fullstack fit
+- infinia: no frontend/fullstack fit
+- boundary: non-India and no explicit remote
+- variance: non-India and no explicit remote
+- 222: non-India and no explicit remote
+- icepanel: experience >5: 6+ years
+- 1stcollab: no frontend/fullstack fit
+- truewind: non-India and no explicit remote
+- inkeep: no frontend/fullstack fit
+- relace: no frontend/fullstack fit
+- polotab: no frontend/fullstack fit
+- gooseworks: no frontend/fullstack fit
+- cosine: non-India and no explicit remote
+- vooma: non-India and no explicit remote
+- coperniq: no frontend/fullstack fit
+- goveagle: no frontend/fullstack fit
+- narrative: no frontend/fullstack fit
+- omnistrate: no frontend/fullstack fit
+- glass-health: experience >5: 6+ years
+- ohm-2: non-India and no explicit remote
+- nango: no frontend/fullstack fit
+- hammr: no frontend/fullstack fit
+- flexdesk: no frontend/fullstack fit
+- concourse: no frontend/fullstack fit
+- magic-patterns: no frontend/fullstack fit
+- credal-ai: non-India and no explicit remote
+- drdroid: no frontend/fullstack fit
+- reflex: no frontend/fullstack fit
+- finvest: no frontend/fullstack fit
+- sameday: non-India and no explicit remote
+- polymath-robotics: no frontend/fullstack fit
+- axle: experience >5: 6+ years
+- primevault: no frontend/fullstack fit
+- homli: no frontend/fullstack fit
+- findly: no frontend/fullstack fit
+- nsave: no frontend/fullstack fit
+- vinci-games: no frontend/fullstack fit
+- ekho: non-India and no explicit remote
+- unthread: experience >5: 6+ years
+- kombo: non-India and no explicit remote
+- metriport: experience >5: 6+ years
+- volantio: no frontend/fullstack fit
+- aviaryai: non-India and no explicit remote
+- alphawatch-ai: no frontend/fullstack fit
+- hedgehog-2: no frontend/fullstack fit
+- coris: no frontend/fullstack fit
+- airhart-aeronautics: no frontend/fullstack fit
+- thera: non-India and no explicit remote
+- provision: no frontend/fullstack fit
+- newscatcher: no frontend/fullstack fit
+- typewise: no frontend/fullstack fit
+- flair-labs: no frontend/fullstack fit
+- illuminant-surgical: no frontend/fullstack fit
+- blee: no frontend/fullstack fit
+- voltic: no frontend/fullstack fit
+- cerrion: no frontend/fullstack fit
+- chariot-2: non-India and no explicit remote
+- two-dots: non-India and no explicit remote
+- ciro: non-India and no explicit remote
+- julius: non-India and no explicit remote
+- stream: experience >5: 6+ years
+- layerup: no frontend/fullstack fit
+- medplum: non-India and no explicit remote
+- tradex: no frontend/fullstack fit
+- eventual: non-India and no explicit remote
+- cofactr: no frontend/fullstack fit
+- korrai: no frontend/fullstack fit
+- airmyne: no frontend/fullstack fit
+- gosats: experience >5: 6+ years
+- olympian-motors: experience >5: 6+ years
+- darsel: no frontend/fullstack fit
+- finku: no frontend/fullstack fit
+- rally-uxr: no frontend/fullstack fit
+- yhangry: non-India and no explicit remote
+- shaped: non-India and no explicit remote
+- spade: no frontend/fullstack fit
+- topship: no frontend/fullstack fit
+- unison: no frontend/fullstack fit
+- joon-health: no frontend/fullstack fit
+- bemlo: non-India and no explicit remote
+- broccoli-ai: experience >5: 6+ years
+- renthop: non-India and no explicit remote
+- cinder-2: experience >5: 6+ years
+- goodfin: no frontend/fullstack fit
+- sprites: no frontend/fullstack fit
+- strong-compute: no frontend/fullstack fit
+- curacel: no frontend/fullstack fit
+- lunajoy-health: experience >5: 6+ years
+- cotera: non-India and no explicit remote
+- posh: no frontend/fullstack fit
+- complete: experience >5: 6+ years
+- imt-care: no frontend/fullstack fit
+- iomete: no frontend/fullstack fit
+- sphere: experience >5: 6+ years
+- hokali: no frontend/fullstack fit
+- reforged-labs: non-India and no explicit remote
+- emobi: non-India and no explicit remote
+- happl: no frontend/fullstack fit
+- ankr-health: no frontend/fullstack fit
+- shuttle-central: experience >5: 6+ years
+- kaso: no frontend/fullstack fit
+- rownd: no frontend/fullstack fit
+- invert: experience >5: 6+ years
+- seabound: no frontend/fullstack fit
+- teamout: no frontend/fullstack fit
+- gym-class: experience >5: 6+ years
+- axross-pte-ltd: no frontend/fullstack fit
+- nest-genomics: experience >5: 6+ years
+- cozmo-ai: no frontend/fullstack fit
+- starling: no frontend/fullstack fit
+- trebol: no frontend/fullstack fit
+- sieve: non-India and no explicit remote
+- astroforge: no frontend/fullstack fit
+- elevate: no frontend/fullstack fit
+- attack-capital: no frontend/fullstack fit
+- emerge-career: non-India and no explicit remote
+- lightly: no frontend/fullstack fit
+- charge-robotics: non-India and no explicit remote
+- turion-space: non-India and no explicit remote
+- aviator: non-India and no explicit remote
+- atlas: experience >5: 6+ years
+- output: non-India and no explicit remote
+- infer: no frontend/fullstack fit
+- telmai: no frontend/fullstack fit
+- dots-2: experience >5: 6+ years
+- mach9: no frontend/fullstack fit
+- transastra-corporation: no frontend/fullstack fit
+- meticulous: non-India and no explicit remote
+- adaptyv: no frontend/fullstack fit
+- heycharge: experience >5: 6+ years
+- zensors-inc: no frontend/fullstack fit
+- protex-ai: no frontend/fullstack fit
+- kaipod-learning: experience >5: 6+ years
+- shimmer: no frontend/fullstack fit
+- oneschema: non-India and no explicit remote
+- coloop: non-India and no explicit remote
+- formance: no frontend/fullstack fit
+- coinrule: experience >5: 6+ years
+- scispot-io: experience >5: 6+ years
+- digibuild: no frontend/fullstack fit
+- sigmaos: non-India and no explicit remote
+- enerjazz: no frontend/fullstack fit
+- repool: non-India and no explicit remote
+- rinse: no frontend/fullstack fit
+- pirouette-pharma: no frontend/fullstack fit
+- safebeat: no frontend/fullstack fit
+- epinoma: no frontend/fullstack fit
+- strive-math: no frontend/fullstack fit
+- neodocs: no frontend/fullstack fit
+- algouniversity: no frontend/fullstack fit
+- rivia-ai: no frontend/fullstack fit
+- parallel-bio: no frontend/fullstack fit
+- boldvoice: experience >5: 6+ years
+- confido: non-India and no explicit remote
+- coulomb-ai: experience >5: 6+ years
+- koshex: no frontend/fullstack fit
+- kalam-labs: no frontend/fullstack fit
