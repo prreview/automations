@@ -24,7 +24,7 @@ hey Shailesh,
 
 saw the founding full-stack / AI engineer post and the work on generated app structure, previews, and deployment caught my eye.
 
-at WaveMaker, I build the code-generation layer that turns proprietary markup into production Next.js and React; at Rava, I built LLM workflows, browser caching, and deployment pipelines, and I also build Trevyn, a repo-aware PR reviewer.
+at WaveMaker, I build the code-generation layer that turns WaveMaker-specific markup into production Next.js and React; at Rava, I built LLM workflows, browser caching, and deployment pipelines, and I also build Trevyn, a repo-aware PR reviewer.
 
 happy to jump on a call.
 
