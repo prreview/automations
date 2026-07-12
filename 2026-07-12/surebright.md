@@ -23,7 +23,7 @@ hi Sanket,
 
 saw the AI Engineer role and the work SureBright is doing to turn merchant inventory into warranty coverage and pricing decisions.
 
-i’m at WaveMaker building the code-generation layer that converts proprietary markup into production Next.js and React, and before that I built LLM content workflows at Rava.ai; I also build Trevyn, a PR reviewer that uses full-repository context instead of a diff alone.
+i’m at WaveMaker building the code-generation layer that converts WaveMaker markup into production Next.js and React, and before that I built LLM content workflows at Rava.ai; I also build Trevyn, a PR reviewer that uses full-repository context.
 
 i’d like to help build the agent workflows behind coverage decisions and merchant operations at SureBright.
 
